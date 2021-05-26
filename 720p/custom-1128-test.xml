@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window type="dialog" id="1128">
+	<defaultcontrol>9000</defaultcontrol>
+	<controls>
+
+		<control type="list" id="999">
+			<include>HiddenListContainer</include>
+			<content limit="1" target="videos">plugin://plugin.video.themoviedb.helper/?info=details&amp;type=person&amp;tmdb_id=287</content>
+		</control>
+		<control type="list" id="888">
+			<include>HiddenListContainer</include>
+			<content target="videos">plugin://plugin.video.themoviedb.helper/?info=details&amp;type=person&amp;tmdb_id=287</content>
+		</control>
+
+		<!-- ================= -->
+		<!-- == Main Part == -->
+		<!-- ================= -->
+		<control type="group" id="9001">
+			<defaultcontrol>9002</defaultcontrol>
+			<include>TMDBInfo_OpenCloseAnimation</include>
+
+			<!-- Poster/Head Label -->
+			<control type="group">
+				<left>45</left>
+				<top>115</top>
+				<control type="image">
+					<width>200</width>
+					<height>300</height>
+					<aspectratio scalediffuse="false">scale</aspectratio>
+					<texture border="1" diffuse="thumbs/poster_diffuse_big.png">thumbs/thumb_back.png</texture>
+				</control>
+				<control type="image">
+					<width>200</width>
+					<height>300</height>
+					<aspectratio scalediffuse="false">scale</aspectratio>
+					<texture border="1" fallback="thumbs/fallback_poster_big.png" diffuse="thumbs/poster_diffuse_big.png">$INFO[Container(999).ListItemAbsolute(0).Art(poster)]</texture>
+				</control>
+				<control type="image">
+					<width>200</width>
+					<height>300</height>
+					<aspectratio>stretch</aspectratio>
+					<texture border="1">thumbs/poster_overlay_big.png</texture>
+				</control>
+				<control type="label">
+					<description>Title</description>
+					<left>220</left>
+					<top>2</top>
+					<width>965</width>
+					<font>FontSize_36</font>
+					<label>$INFO[Container(999).ListItemAbsolute(0).Label]</label>
+					<textcolor>white</textcolor>
+					<shadowcolor>99000000</shadowcolor>
+					<visible>String.IsEmpty(Window.Property(actorinfo))</visible>
+				</control>
+			</control>
+
+
+			<!-- Sub Labels -->
+			<control type="group">
+				<left>265</left>
+				<top>115</top>
+				<visible>String.IsEmpty(Window.Property(actorinfo))</visible>
+				<include content="VideoInfoSeperator">
+					<param name="top" value="40"/>
+					<param name="width" value="965"/>
+				</include>
+				<!-- Left Part -->
+				<control type="grouplist">
+					<left>1</left>
+					<top>52</top>
+					<itemgap>5</itemgap>
+					<orientation>horizontal</orientation>
+					<control type="image">
+						<width>28</width>
+						<height>28</height>
+						<texture colordiffuse="99white">$VAR[ActorGenderIcon]</texture>
+						<visible>!String.IsEmpty(Container(999).ListItemAbsolute(0).Property(gender))</visible>
+					</control>
+					<include content="VideoInfoLabel">
+						<param name="height" value="24"/>
+						<param name="label" value="$INFO[Container(999).ListItemAbsolute(0).Property(Birthday),Born ]"/>
+						<param name="visible" value=""/>
+					</include>
+					<include content="VideoInfoLabel">
+						<param name="max_width" value="530"/>
+						<param name="height" value="24"/>
+						<param name="label" value="$INFO[Container(999).ListItemAbsolute(0).Property(Born),at ]"/>
+						<param name="visible" value=""/>
+					</include>
+				</control>
+				<!-- Right Part -->
+				<control type="grouplist">
+					<right>52</right>
+					<top>52</top>
+					<align>right</align>
+					<itemgap>10</itemgap>
+					<orientation>horizontal</orientation>
+					<visible>String.IsEmpty(Window.Property(actorinfo))</visible>
+					<include content="VideoInfoLabel">
+						<param name="max_width" value="300"/>
+						<param name="height" value="24"/>
+						<param name="label" value="$VAR[AgeAndDeathDateLabel]"/>
+					</include>
+					<control type="image">
+						<width>22</width>
+						<height>22</height>
+						<texture colordiffuse="99white">icons/videoinfo_info.png</texture>
+					</control>
+				</control>
+				<include content="VideoInfoSeperator">
+					<param name="top" value="86"/>
+					<param name="width" value="965"/>
+					<param name="visible" value="String.IsEmpty(Window.Property(actorinfo))"/>
+				</include>
+			</control>
+
+
+			<!-- Labels/Biography -->
+			<control type="group" id="9003">
+				<defaultcontrol>44</defaultcontrol>
+				<visible>String.IsEmpty(Window.Property(actorinfo))</visible>
+				<control type="group">
+					<left>265</left>
+					<top>245</top>
+					<control type="grouplist">
+						<left>2</left>
+						<top>-26</top>
+						<!-- Known for label -->
+						<include content="VideoInfoLabel">
+							<param name="label" value="$INFO[Container(999).ListItemAbsolute(0).Property(known_for),[COLOR=white]Known for:[/COLOR] ]"/>
+							<param name="visible" value="!String.IsEmpty(Container(999).ListItemAbsolute(0).Property(known_for))"/>
+						</include>
+						<include content="VideoInfoLabel">
+							<param name="label" value="[COLOR=white]Known for: [/COLOR]$LOCALIZE[31036]"/>
+							<param name="visible" value="String.IsEmpty(Container(999).ListItemAbsolute(0).Property(known_for))"/>
+						</include>
+					</control>
+					<!-- Count of Movies/TV Shows -->
+					<control type="grouplist">
+						<left>1</left>
+						<top>-2</top>
+						<itemgap>10</itemgap>
+						<orientation>horizontal</orientation>
+						<include content="VideoInfoLabel">
+							<param name="height" value="24"/>
+							<param name="label" value="$INFO[Container(141).ListItem.Property(numitems.tmdb),[COLOR=white]$LOCALIZE[342]: [/COLOR]]"/>
+							<param name="visible" value="!String.IsEmpty(Container(141).ListItem.Property(numitems.tmdb))"/>
+						</include>
+						<include content="VideoInfoLabel">
+							<param name="max_width" value="530"/>
+							<param name="height" value="24"/>
+							<param name="label" value="$INFO[Container(151).ListItem.Property(numitems.tmdb),|  [COLOR=white]$LOCALIZE[31002]: [/COLOR]]"/>
+							<param name="visible" value="!String.IsEmpty(Container(151).ListItem.Property(numitems.tmdb))"/>
+						</include>
+						<include content="VideoInfoLabel">
+							<param name="max_width" value="530"/>
+							<param name="height" value="24"/>
+							<param name="label" value="$INFO[Container(141).ListItem.Property(numitems.dbid),|  [COLOR=white]In $LOCALIZE[14022]: [/COLOR]]"/>
+							<param name="visible" value="!String.IsEmpty(Container(141).ListItem.Property(numitems.dbid))"/>
+						</include>
+						<include content="VideoInfoLabel">
+							<param name="max_width" value="530"/>
+							<param name="height" value="24"/>
+							<param name="label" value="[COLOR=white]$LOCALIZE[38026]:[/COLOR] $LOCALIZE[31036]"/>
+							<param name="visible" value="String.IsEmpty(Container(141).ListItem.Property(numitems.tmdb)) + String.IsEmpty(Container(151).ListItem.Property(numitems.tmdb)) + String.IsEmpty(Container(141).ListItem.Property(numitems.dbid))"/>
+						</include>
+					</control>
+					<include content="VideoInfoSeperator">
+						<param name="top" value="35"/>
+						<param name="width" value="630"/>
+					</include>
+				</control>
+				<!-- Biography -->
+				<control type="group">
+					<left>265</left>
+					<top>300</top>
+					<width>630</width>
+					<include content="InfoDialogsDescription">
+						<param name="left" value="0"/>
+						<param name="top" value="-4"/>
+						<param name="textbox_width" value="630"/>
+						<param name="textbox_height" value="245"/>
+						<param name="font" value="Fontsize_20"/>
+						<param name="button_left" value="-1"/>
+						<param name="button_top" value="-18"/>
+						<param name="button_width" value="632"/>
+						<param name="button_height" value="279"/>
+						<param name="label" value="[COLOR=white]$LOCALIZE[21887]:[/COLOR][CR]$INFO[Container(999).ListItemAbsolute(0).Property(biography)]"/>
+						<param name="visible" value="true"/>
+					</include>
+					<include content="VideoInfoSeperator">
+						<param name="top" value="262"/>
+						<param name="width" value="965"/>
+						<param name="visible" value="true"/>
+					</include>
+				</control>
+			</control>
+
+
+			<!-- Photos -->
+			<control type="group">
+				<left>1000</left>
+				<top>215</top>
+				<visible>String.IsEmpty(Window.Property(actorinfo))</visible>
+				<control type="label">
+					<width>320</width>
+					<font>FontSize_20</font>
+					<textcolor>white</textcolor>
+					<shadowcolor>77000000</shadowcolor>
+					<label>$LOCALIZE[31273]:</label>
+				</control>
+				<control type="panel" id="50">
+					<left>0</left>
+					<top>30</top>
+					<width>230</width>
+					<height>305</height>
+					<onup>9000</onup>
+					<ondown>50</ondown>
+					<onleft>9003</onleft>
+					<onright>9000</onright>
+					<onclick>SetFocus(777)</onclick>
+					<scrolltime tween="quadratic" easing="out">250</scrolltime>
+					<itemlayout height="51" width="320">
+						<control type="image">
+							<left>0</left>
+							<top>0</top>
+							<width>44</width>
+							<height>44</height>
+							<aspectratio scalediffuse="false">scale</aspectratio>
+							<texture background="true" colordiffuse="99white" fallback="dialogs/profiles/profile_rounded_fallback.png" diffuse="dialogs/profiles/profile_diffuse.png">$INFO[Listitem.Icon]</texture>
+							<bordertexture colordiffuse="99white">dialogs/profiles/profile_rounded_panel.png</bordertexture>
+						</control>
+						<control type="label">
+							<left>55</left>
+							<top>0</top>
+							<width>185</width>
+							<height>44</height>
+							<font>FontSize_18</font>
+							<textcolor>99white</textcolor>
+							<shadowcolor>77000000</shadowcolor>
+							<label>$INFO[ListItem.Label]</label>
+						</control>
+					</itemlayout>
+					<focusedlayout height="51" width="320">
+						<control type="group">
+							<include>ListFocusAnimation</include>
+							<control type="image">
+								<left>0</left>
+								<top>0</top>
+								<width>44</width>
+								<height>44</height>
+								<aspectratio scalediffuse="false">scale</aspectratio>
+								<texture background="true" fallback="dialogs/profiles/profile_rounded_fallback.png" diffuse="dialogs/profiles/profile_diffuse.png">$INFO[Listitem.Icon]</texture>
+								<bordertexture>dialogs/profiles/profile_rounded_panel.png</bordertexture>
+							</control>
+							<control type="label">
+								<left>55</left>
+								<top>0</top>
+								<width>185</width>
+								<height>44</height>
+								<font>FontSize_18</font>
+								<textcolor>white</textcolor>
+								<scroll>true</scroll>
+								<shadowcolor>77000000</shadowcolor>
+								<label>$INFO[ListItem.Label]</label>
+							</control>
+						</control>
+					</focusedlayout>
+					<content>plugin://plugin.video.themoviedb.helper?info=images&amp;type=person&amp;tmdb_id=$INFO[Container(999).ListItemAbsolute(0).Property(tmdb_id)]</content>
+				</control>
+				<control type="image">
+					<left>350</left>
+					<top>120</top>
+					<width>22</width>
+					<height>22</height>
+					<texture background="true">icons/submenu_arrow.png</texture>
+					<colordiffuse>99white</colordiffuse>
+					<animation effect="rotate" start="0" end="90" center="auto" condition="true">Conditional</animation>
+					<animation effect="slide" start="0,0" end="0,40" time="150" tween="qubic" easing="out" condition="!Control.HasFocus(50)">Conditional</animation>
+				</control>
+			</control>
+
+
+			<!-- Videos/Photos Buttons -->
+			<control type="grouplist" id="9002">
+				<left>45</left>
+				<top>425</top>
+				<onleft>9000</onleft>
+				<onright condition="String.IsEqual(Window.Property(actorinfo),1) | String.IsEqual(Window.Property(actorinfo),2) | String.IsEqual(Window.Property(actorinfo),3)">9004</onright>
+				<onright condition="String.IsEmpty(Window.Property(actorinfo))">9003</onright>
+				<onup>9000</onup>
+				<itemgap>10</itemgap>
+				<control type="togglebutton" id="91">
+					<font></font>
+					<label>$LOCALIZE[342]</label>
+					<altlabel>$LOCALIZE[29915]</altlabel>
+					<include>InfoDialogsButton</include>
+					<usealttexture>String.IsEqual(Window.Property(actorinfo),1) + !String.IsEmpty(Window.Property(actorinfo))</usealttexture>
+					<onclick>SetProperty(actorinfo,1)</onclick>
+					<onclick>140</onclick>
+					<altclick>ClearProperty(actorinfo)</altclick>
+				</control>
+				<control type="togglebutton" id="92">
+					<font></font>
+					<label>$LOCALIZE[31002]</label>
+					<altlabel>$LOCALIZE[29915]</altlabel>
+					<include>InfoDialogsButton</include>
+					<usealttexture>String.IsEqual(Window.Property(actorinfo),2) + !String.IsEmpty(Window.Property(actorinfo))</usealttexture>
+					<onclick>SetProperty(actorinfo,2)</onclick>
+					<onclick>150</onclick>
+					<altclick>ClearProperty(actorinfo)</altclick>
+				</control>
+				<control type="togglebutton" id="93">
+					<font></font>
+					<label>YouTube</label>
+					<altlabel>$LOCALIZE[29915]</altlabel>
+					<include>InfoDialogsButton</include>
+					<usealttexture>String.IsEqual(Window.Property(actorinfo),3) + !String.IsEmpty(Window.Property(actorinfo))</usealttexture>
+					<onclick>SetProperty(actorinfo,3)</onclick>
+					<onclick>160</onclick>
+					<altclick>ClearProperty(actorinfo)</altclick>
+				</control>
+			</control>
+			<control type="grouplist">
+				<left>45</left>
+				<top>434</top>
+				<onup>9000</onup>
+				<itemgap>10</itemgap>
+				<control type="grouplist">
+					<align>center</align>
+					<height>40</height>
+					<width>200</width>
+					<orientation>horizontal</orientation>
+					<animation effect="fade" start="100" end="50" condition="!Control.HasFocus(91)" reversible="true">Conditional</animation>
+					<control type="image">
+						<width>22</width>
+						<height>22</height>
+						<texture>$VAR[ToggleIconMovies]</texture>
+					</control>
+					<control type="label">
+						<height>25</height>
+						<width>auto</width>
+						<font>FontSize_18</font>
+						<label>$INFO[Control.GetLabel(91)]</label>
+						<textcolor>white</textcolor>
+						<shadowcolor>99000000</shadowcolor>
+						<scroll>false</scroll>
+					</control>
+				</control>
+				<control type="grouplist">
+					<align>center</align>
+					<height>40</height>
+					<width>200</width>
+					<orientation>horizontal</orientation>
+					<animation effect="fade" start="100" end="50" condition="!Control.HasFocus(92)" reversible="true">Conditional</animation>
+					<control type="image">
+						<width>22</width>
+						<height>22</height>
+						<texture>$VAR[ToggleIconTVShows]</texture>
+					</control>
+					<control type="label">
+						<height>25</height>
+						<width>auto</width>
+						<font>FontSize_18</font>
+						<label>$INFO[Control.GetLabel(92)]</label>
+						<textcolor>white</textcolor>
+						<shadowcolor>99000000</shadowcolor>
+						<scroll>false</scroll>
+					</control>
+				</control>
+				<control type="grouplist">
+					<align>center</align>
+					<height>40</height>
+					<width>200</width>
+					<orientation>horizontal</orientation>
+					<animation effect="fade" start="100" end="50" condition="!Control.HasFocus(93)" reversible="true">Conditional</animation>
+					<control type="image">
+						<width>22</width>
+						<height>22</height>
+						<texture>$VAR[ToggleIconYouTube]</texture>
+					</control>
+					<control type="label">
+						<height>25</height>
+						<width>auto</width>
+						<font>FontSize_18</font>
+						<label>$INFO[Control.GetLabel(93)]</label>
+						<textcolor>white</textcolor>
+						<shadowcolor>99000000</shadowcolor>
+						<scroll>false</scroll>
+					</control>
+				</control>
+			</control>
+
+
+			<!-- Lists -->
+			<control type="group" id="9004">
+				<left>265</left>
+				<top>112</top>
+				<!-- Videos -->
+				<control type="group" id="160">
+					<defaultcontrol>161</defaultcontrol>
+					<width>980</width>
+					<height>455</height>
+					<visible>String.IsEqual(Window.Property(actorinfo),3)</visible>
+					<include content="InfoDialogsListHeaderFooter">
+						<param name="container_id" value="161"/>
+						<param name="header_icon" value="icons/youtube.png"/>
+						<param name="header_label" value="YouTube $LOCALIZE[3]"/>
+						<param name="list_label" value="$INFO[Container(161).Listitem.Premiered,, | ]$INFO[Container(161).Listitem.Duration,, | ]$INFO[Container(161).Listitem.Label]"/>
+						<param name="visible" value="Integer.IsGreater(Container(161).NumItems,0)"/>
+					</include>
+					<include content="InfoDialogsListContainer">
+						<param name="container_id" value="161"/>
+						<param name="onleft" value="9002"/>
+						<param name="onup" value="9000"/>
+						<param name="visible" value="Integer.IsGreater(Container(161).NumItems,0) | Container(161).IsUpdating" />
+						<param name="custom_click" value="AlarmClock(PlayVideo,PlayMedia($INFO[Container(161).ListItem.FileNameAndPath]),00:01,silent)"/>
+						<param name="content" value="plugin://plugin.video.youtube/kodion/search/query/?q=$INFO[Container(999).ListItemAbsolute(0).Label]&amp;search_type=video"/>
+					</include>
+				</control>
+
+
+				<!-- Movies -->
+				<control type="grouplist" id="140">
+					<defaultcontrol>151</defaultcontrol>
+					<width>980</width>
+					<height>455</height>
+					<itemgap>0</itemgap>
+					<scrolltime tween="quadratic" easing="out">350</scrolltime>
+					<visible>String.IsEqual(Window.Property(actorinfo),1)</visible>
+					<!-- Movies (Cast) -->
+					<control type="group" id="1401">
+						<width>980</width>
+						<height>455</height>
+						<visible>Control.IsVisible(141)</visible>
+						<include content="InfoDialogsListHeaderFooter">
+							<param name="container_id" value="141"/>
+							<param name="header_icon" value="icons/tmdb.png"/>
+							<param name="header_label" value="$LOCALIZE[342] ($LOCALIZE[206])"/>
+							<param name="list_label" value="$INFO[Container(141).Listitem.Year,, | ]$INFO[Container(141).ListItem.Duration(h),,h ]$INFO[Container(141).ListItem.Duration(mm),,min | ]$INFO[Container(141).Listitem.Label]"/>
+							<param name="visible" value="Integer.IsGreater(Container(141).NumItems,0)"/>
+						</include>
+						<include content="InfoDialogsListContainer">
+							<param name="container_id" value="141"/>
+							<param name="onleft" value="9002"/>
+							<param name="onup" value="9000"/>
+							<param name="ondown" value="142"/>
+							<param name="visible" value="Integer.IsGreater(Container(141).NumItems,0) | Container(141).IsUpdating" />
+							<param name="custom_click" value="$VAR[CustomClickForMoreLists]"/>
+							<param name="content" value="plugin://plugin.video.themoviedb.helper?info=stars_in_movies&amp;type=person&amp;tmdb_id=$INFO[Container(999).ListItemAbsolute(0).Property(tmdb_id)]&amp;extended=True"/>
+						</include>
+					</control>
+					<!-- Movies (Crew) -->
+					<control type="group" id="1502">
+						<width>980</width>
+						<height>455</height>
+						<visible>Control.IsVisible(142)</visible>
+						<include content="InfoDialogsListHeaderFooter">
+							<param name="container_id" value="142"/>
+							<param name="header_icon" value="icons/tmdb.png"/>
+							<param name="header_label" value="$LOCALIZE[342] ($LOCALIZE[31114])"/>
+							<param name="list_label" value="$INFO[Container(142).Listitem.Year,, | ]$INFO[Container(142).Listitem.Label]$INFO[Container(142).ListItem.Property(job),  (,)]"/>
+							<param name="visible" value="Integer.IsGreater(Container(142).NumItems,0)"/>
+						</include>
+						<include content="InfoDialogsListContainer">
+							<param name="container_id" value="142"/>
+							<param name="onleft" value="9002"/>
+							<param name="onup" value="141"/>
+							<param name="ondown" value="141"/>
+							<param name="visible" value="Integer.IsGreater(Container(142).NumItems,0) | Container(142).IsUpdating" />
+							<param name="custom_click" value="$VAR[CustomClickForMoreLists]"/>
+							<param name="content" value="plugin://plugin.video.themoviedb.helper?info=crew_in_movies&amp;type=person&amp;tmdb_id=$INFO[Container(999).ListItemAbsolute(0).Property(tmdb_id)]&amp;extended=True"/>
+						</include>
+					</control>
+				</control>
+
+				<!-- TV Shows -->
+				<control type="grouplist" id="150">
+					<defaultcontrol>151</defaultcontrol>
+					<width>980</width>
+					<height>455</height>
+					<itemgap>0</itemgap>
+					<scrolltime tween="quadratic" easing="out">350</scrolltime>
+					<visible>String.IsEqual(Window.Property(actorinfo),2)</visible>
+					<!-- TV Shows (Cast) -->
+					<control type="group" id="1501">
+						<width>980</width>
+						<height>455</height>
+						<visible>Control.IsVisible(151)</visible>
+						<include content="InfoDialogsListHeaderFooter">
+							<param name="container_id" value="151"/>
+							<param name="header_icon" value="icons/tmdb.png"/>
+							<param name="header_label" value="$LOCALIZE[31002] ($LOCALIZE[206])"/>
+							<param name="list_label" value="$INFO[Container(151).Listitem.Year,, | ]$INFO[Container(151).ListItem.Duration(h),,h ]$INFO[Container(151).ListItem.Duration(mm),,min | ]$INFO[Container(151).Listitem.Label]"/>
+							<param name="visible" value="Integer.IsGreater(Container(151).NumItems,0)"/>
+						</include>
+						<include content="InfoDialogsListContainer">
+							<param name="container_id" value="151"/>
+							<param name="onleft" value="9002"/>
+							<param name="onup" value="9000"/>
+							<param name="ondown" value="152"/>
+							<param name="visible" value="Integer.IsGreater(Container(151).NumItems,0) | Container(151).IsUpdating" />
+							<param name="custom_click" value="$VAR[CustomClickForMoreLists]"/>
+							<param name="content" value="plugin://plugin.video.themoviedb.helper?info=stars_in_tvshows&amp;type=person&amp;tmdb_id=$INFO[Container(999).ListItemAbsolute(0).Property(tmdb_id)]&amp;extended=True"/>
+						</include>
+					</control>
+					<!-- TV Shows (Crew) -->
+					<control type="group" id="1502">
+						<width>980</width>
+						<height>455</height>
+						<visible>Control.IsVisible(152)</visible>
+						<include content="InfoDialogsListHeaderFooter">
+							<param name="container_id" value="152"/>
+							<param name="header_icon" value="icons/tmdb.png"/>
+							<param name="header_label" value="$LOCALIZE[31002] ($LOCALIZE[31114])"/>
+							<param name="list_label" value="$INFO[Container(152).Listitem.Year,, | ]$INFO[Container(152).Listitem.Label]$INFO[Container(152).ListItem.Property(job),  (,)]"/>
+							<param name="visible" value="Integer.IsGreater(Container(152).NumItems,0)"/>
+						</include>
+						<include content="InfoDialogsListContainer">
+							<param name="container_id" value="152"/>
+							<param name="onleft" value="9002"/>
+							<param name="onup" value="151"/>
+							<param name="ondown" value="151"/>
+							<param name="visible" value="Integer.IsGreater(Container(152).NumItems,0) | Container(152).IsUpdating" />
+							<param name="custom_click" value="$VAR[CustomClickForMoreLists]"/>
+							<param name="content" value="plugin://plugin.video.themoviedb.helper?info=crew_in_tvshows&amp;type=person&amp;tmdb_id=$INFO[Container(999).ListItemAbsolute(0).Property(tmdb_id)]&amp;extended=True"/>
+						</include>
+					</control>
+				</control>
+
+
+
+
+			</control>
+
+
+		</control>
+
+
+
+
+		<!-- ================= -->
+		<!-- == Top Buttons == -->
+		<!-- ================= -->
+		<control type="group">
+			<left>45</left>
+			<top>25</top>
+			<include>TextViewerHideAnimations</include>
+			<include>TMDBInfo_OpenCloseAnimation</include>
+			<!-- Main Buttons -->
+			<control type="grouplist" id="9000">
+				<onright>50</onright>
+				<ondown>9001</ondown>
+				<include>InfoDialogs_TopMenuVars</include>
+				<control type="label" id="99">
+					<width min="0" max="300">auto</width>
+					<include>TopBigLabel</include>
+					<label>$LOCALIZE[544]</label>
+				</control>
+				<control type="button" id="88">
+					<label>Close</label>
+					<onclick condition="!String.IsEmpty(Window(Home).Property(TMDbHelper.Path.Current))">RunScript(plugin.video.themoviedb.helper,del_path,call_id=1135)</onclick>
+					<onback condition="Window.IsActive(1130) + !String.IsEmpty(Window(Home).Property(TMDbHelper.Path.Current))">RunScript(plugin.video.themoviedb.helper,del_path,call_id=1135)</onback>
+					<onback>89</onback>
+					<include>TopMenuButton</include>
+				</control>
+			</control>
+		</control>
+
+
+
+		<!-- Image Viewer -->
+		<control type="button" id="777">
+			<include>HiddenItem</include>
+			<onleft>Control.Move(50,-1)</onleft>
+			<onright>Control.Move(50,1)</onright>
+			<onback>50</onback>
+		</control>
+		<control type="group">
+			<include>FanartFade</include>
+			<visible>Control.HasFocus(777)</visible>
+			<control type="image">
+				<include>FullscreenDimensions</include>
+				<texture background="true">windows/bg/bg_overlay.png</texture>
+			</control>
+			<control type="image">
+				<aspectratio>keep</aspectratio>
+				<include>FullscreenDimensions</include>
+				<texture background="true">$INFO[Container(50).ListItem.Art(poster)]</texture>
+			</control>
+		</control>
+
+
+
+
+
+
+
+
+		  <control type="grouplist....">
+			  <top>210</top>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>VideosListContent : $INFO[VideosListContent]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]birthday:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(Birthday)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]born:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(Born)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]age:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(Age)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]deathday:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(Deathday)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]department:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(department)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]character:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(character)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]role:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(role)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]job:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(job)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]known_for:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(known_for)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]gender:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(gender)]</label>
+				</control>
+				<control type="label">
+				  <right>5</right>
+					<top>90</top>
+				  <textcolor>FFFFFF40</textcolor>
+				  <font>FontSize_18B</font>
+				  <align>right</align>
+				  <label>[COLOR=FFA939FF]aliases:[/COLOR] $INFO[Container(999).ListItemAbsolute(0).Property(aliases)]</label>
+				</control>
+		  </control>
+
+
+
+
+
+
+	</controls>
+</window>
