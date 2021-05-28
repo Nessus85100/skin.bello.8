@@ -7,14 +7,15 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Frédéric Rauffet, 2019\n"
-"Language-Team: French (France) (https://www.transifex.com/bello-ui/teams/96761/fr_FR/)\n"
+"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/fr_fr/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -50,7 +51,7 @@ msgstr "Veuillez patienter...."
 
 msgctxt "#31008"
 msgid "System auto shutdown in"
-msgstr "Arrêt automatique du système dans "
+msgstr "Arrêt automatique du système dans"
 
 msgctxt "#31009"
 msgid "Context Menu"
@@ -74,11 +75,11 @@ msgstr "Menu d'accueil"
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 msgctxt "#31015"
 msgid "Similar to"
-msgstr ""
+msgstr "Similaire à"
 
 msgctxt "#31016"
 msgid "File Manager"
@@ -94,11 +95,11 @@ msgstr "Bandes-annonces"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Réalisé par"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Écrit par"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -130,7 +131,7 @@ msgstr "Utilisation de la mémoire"
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Objets"
 
 msgctxt "#31030"
 msgid "AM"
@@ -198,11 +199,11 @@ msgstr "Hiberne"
 
 msgctxt "#31049"
 msgid "Rebooting"
-msgstr "Redémarrer "
+msgstr "Redémarrer"
 
 msgctxt "#31050"
 msgid "Logging off"
-msgstr "Déconnexion "
+msgstr "Déconnexion"
 
 msgctxt "#31080"
 msgid "Slide"
@@ -306,7 +307,7 @@ msgstr "OSD disposition de la vidéo"
 
 msgctxt "#31106"
 msgid "SeekBar Layout"
-msgstr " Disposition de la barre de recherche"
+msgstr "Disposition de la barre de recherche"
 
 msgctxt "#31107"
 msgid "Simple"
@@ -322,23 +323,23 @@ msgstr "Liste de lecture en cours"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
-msgstr "La disposition de l'OSD a changé"
+msgstr "La disposition de l'OSD a changé."
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Budget"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Revenu"
 
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Récompenses"
 
 msgctxt "#31114"
 msgid "Crew"
-msgstr ""
+msgstr "Équipe"
 
 msgctxt "#31115"
 msgid "Options Menu"
@@ -406,7 +407,7 @@ msgstr "Add-on requis"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Activer les infos Prochaine diffusion et le guide TV pour les émissions de télévision[COLOR=55white](Requiert script.tv.show.next.aired)[/COLOR]."
+msgstr "Activer les infos Prochaine diffusion et le guide TV pour les émissions de télévision [COLOR=55white](Requiert script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31151"
 msgid "Show RSS feed in whole skin"
@@ -558,7 +559,7 @@ msgstr "Dernière chanson"
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Carré"
 
 msgctxt "#31228"
 msgid "at"
@@ -630,7 +631,7 @@ msgstr "Spectacles TV au hasard"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Albums aléatoires"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -670,7 +671,7 @@ msgstr "Spectacles TV à la mode"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Artistes aléatoires"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -706,7 +707,7 @@ msgstr "Spectacles TV les mieux cotés"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Épisodes aléatoires"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -722,7 +723,7 @@ msgstr "Faits sur le spectacle"
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Décès"
 
 msgctxt "#31273"
 msgid "Photos"
@@ -730,7 +731,7 @@ msgstr "Photos"
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Titres aléatoires"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -778,15 +779,15 @@ msgstr "En pause"
 
 msgctxt "#31303"
 msgid "Rewinding:"
-msgstr "Rembobinage:"
+msgstr "Rembobinage :"
 
 msgctxt "#31304"
 msgid "Forwarding:"
-msgstr "Avance:"
+msgstr "Avance :"
 
 msgctxt "#31305"
 msgid "Finish Time:"
-msgstr "Heure de fin:"
+msgstr "Heure de fin :"
 
 msgctxt "#31306"
 msgid "Customize Background"
@@ -846,7 +847,7 @@ msgstr "Toujours en train de regarder ?"
 
 msgctxt "#31320"
 msgid "UpNext will stop in..."
-msgstr ""
+msgstr "UpNext s'arrêtera dans..."
 
 msgctxt "#31321"
 msgid "Video decoder"
@@ -890,7 +891,7 @@ msgstr "Démasquer le groupe"
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Similaires"
 
 msgctxt "#31357"
 msgid "Timer"
@@ -958,7 +959,7 @@ msgstr "Avec Kodi vous pouvez avoir plusieurs profils et l'option de connexion a
 
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
-msgstr "Vous n'avez pas encore ajouté d'articles aux Favoris.[CR]Mettez en surbrillance un élément, et choisissez \"Ajouter aux favoris\" dans le menu contextuel. "
+msgstr "Vous n'avez pas encore ajouté d'articles aux Favoris.[CR]Mettez en surbrillance un élément, et choisissez \"Ajouter aux favoris\" dans le menu contextuel."
 
 msgctxt "#31432"
 msgid "Please check your Weather service settings."

@@ -7,14 +7,15 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Karel Varel <siky.net@gmail.com>, 2020\n"
-"Language-Team: Czech (Czech Republic) (https://www.transifex.com/bello-ui/teams/96761/cs_CZ/)\n"
+"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/cs_cz/>\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -74,7 +75,7 @@ msgstr "Hlavní nabídka"
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Vytvořil"
 
 msgctxt "#31015"
 msgid "Similar to"
@@ -94,11 +95,11 @@ msgstr "Ukázky"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Režisér"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Scénarista"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -130,7 +131,7 @@ msgstr "Využití paměti"
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Položky"
 
 msgctxt "#31030"
 msgid "AM"
@@ -326,11 +327,11 @@ msgstr "Rozvržení bylo změněno."
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Rozpočet"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Odměna"
 
 msgctxt "#31113"
 msgid "Awards"
@@ -630,7 +631,7 @@ msgstr "Náhodné Seriály"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Náhodná alba"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -670,7 +671,7 @@ msgstr "Seriálové trendy"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Náhodní interpreti"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -706,7 +707,7 @@ msgstr "Nejlépe hodnocené Seriály"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Náhdoné epizody"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -722,7 +723,7 @@ msgstr "Fakta o seriálu"
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Datum úmrtí"
 
 msgctxt "#31273"
 msgid "Photos"
@@ -730,7 +731,7 @@ msgstr "Fotografie"
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Náhodně písně"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -846,7 +847,7 @@ msgstr "Stále sledovat ?"
 
 msgctxt "#31320"
 msgid "UpNext will stop in..."
-msgstr ""
+msgstr "UpNext se ukončí za..."
 
 msgctxt "#31321"
 msgid "Video decoder"

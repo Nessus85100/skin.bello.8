@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Peppe Calvo <peppe.calvo.cc@gmail.com>, 2019\n"
-"Language-Team: Italian (Italy) (https://www.transifex.com/bello-ui/teams/96761/it_IT/)\n"
+"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/it_it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -75,7 +76,7 @@ msgstr "Menù Principale"
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Creato da"
 
 msgctxt "#31015"
 msgid "Similar to"
@@ -95,11 +96,11 @@ msgstr "Trailer"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Diretto da"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Scritto da"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -123,7 +124,7 @@ msgstr "Elemento"
 
 msgctxt "#31026"
 msgid "Scrolling..."
-msgstr "Scroll"
+msgstr "Scroll..."
 
 msgctxt "#31027"
 msgid "Memory Usage"
@@ -131,7 +132,7 @@ msgstr "Utilizzo Memoria"
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Elementi"
 
 msgctxt "#31030"
 msgid "AM"
@@ -243,7 +244,7 @@ msgstr "Lista Muro"
 
 msgctxt "#31089"
 msgid "Showtime"
-msgstr "Showtime"
+msgstr ""
 
 msgctxt "#31090"
 msgid "Tiles"
@@ -323,7 +324,7 @@ msgstr "Playlist Attuale"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
-msgstr "La posizione del'OSD è cambiata"
+msgstr "La posizione del'OSD è cambiata."
 
 msgctxt "#31111"
 msgid "Budget"
@@ -559,7 +560,7 @@ msgstr "Ultima Canzone"
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Quadrato"
 
 msgctxt "#31228"
 msgid "at"
@@ -631,7 +632,7 @@ msgstr "Serie TV Casuali"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Album casuali"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -671,7 +672,7 @@ msgstr "Serie TV Trend"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Artisti casuali"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -707,7 +708,7 @@ msgstr "Serie TV più Votate"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Episodi casuali"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -723,7 +724,7 @@ msgstr "Info su Serie TV"
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Morto"
 
 msgctxt "#31273"
 msgid "Photos"
@@ -731,7 +732,7 @@ msgstr "Foto"
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Brani casuali"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -803,7 +804,7 @@ msgstr "Tipo di Visualizzazione"
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr "Preset  Visualizzazione"
+msgstr "Preset Visualizzazione"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
@@ -891,7 +892,7 @@ msgstr "Mostra Gruppo"
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Simili"
 
 msgctxt "#31357"
 msgid "Timer"
@@ -959,7 +960,7 @@ msgstr "Con Kodi puoi avere vari profili e l'auto login se la schermata di login
 
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
-msgstr "Non hai aggiunto ancora nessun \"Preferito\" [CR]Evidenzia un elemento e scegli \"Aggiungi a Preferiti\" dal menù contestuale"
+msgstr "Non hai aggiunto ancora nessun \"Preferito\".[CR]Evidenzia un elemento e scegli \"Aggiungi a Preferiti\" dal menù contestuale."
 
 msgctxt "#31432"
 msgid "Please check your Weather service settings."

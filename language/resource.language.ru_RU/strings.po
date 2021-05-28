@@ -7,14 +7,15 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Nessus85100 <nessus85100@hotmail.com>, 2019\n"
-"Language-Team: Russian (Russia) (https://www.transifex.com/bello-ui/teams/96761/ru_RU/)\n"
+"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/ru_ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 4.6.2\n"
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -74,7 +75,7 @@ msgstr "Главное меню"
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 msgctxt "#31015"
 msgid "Similar to"
@@ -94,11 +95,11 @@ msgstr "Трейлеры"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Режиссер"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Сценарист"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -130,7 +131,7 @@ msgstr "Использование памяти"
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "объекты"
 
 msgctxt "#31030"
 msgid "AM"
@@ -326,15 +327,15 @@ msgstr "Расположение OSD изменилось."
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Бюджет"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Доход"
 
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Награды"
 
 msgctxt "#31114"
 msgid "Crew"
@@ -558,7 +559,7 @@ msgstr "Последняя песня"
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Квадрат"
 
 msgctxt "#31228"
 msgid "at"
@@ -630,7 +631,7 @@ msgstr "Случайные сериалы"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Случайные альбомы"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -670,7 +671,7 @@ msgstr "Актуальные сериалы"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Случайные исполнители"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -706,7 +707,7 @@ msgstr "Лучшие сериалы"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Случайные серии"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -722,7 +723,7 @@ msgstr "Факты о сериале"
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Смерть"
 
 msgctxt "#31273"
 msgid "Photos"
@@ -730,7 +731,7 @@ msgstr "Фото"
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Случайные песни"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -778,7 +779,7 @@ msgstr "Пауза"
 
 msgctxt "#31303"
 msgid "Rewinding:"
-msgstr "Перемотка"
+msgstr "Перемотка:"
 
 msgctxt "#31304"
 msgid "Forwarding:"
@@ -846,7 +847,7 @@ msgstr "Все еще смотрите?"
 
 msgctxt "#31320"
 msgid "UpNext will stop in..."
-msgstr ""
+msgstr "UpNext остановится в ..."
 
 msgctxt "#31321"
 msgid "Video decoder"

@@ -6,43 +6,44 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/af_za/>\n"
 "Language: af_za\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "Lewendige TV"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "TV gids"
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "TV vertonings"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Gelug"
 
 msgctxt "#31004"
 msgid "Premiere"
-msgstr ""
+msgstr "Première"
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Snit Nommer"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Besig..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -54,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Konteks kieslys"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -70,7 +71,7 @@ msgstr ""
 
 msgctxt "#31013"
 msgid "Home Menu"
-msgstr ""
+msgstr "Tuis kieslys"
 
 msgctxt "#31014"
 msgid "Created by"
@@ -82,7 +83,7 @@ msgstr ""
 
 msgctxt "#31016"
 msgid "File Manager"
-msgstr ""
+msgstr "Lêer bestuurder"
 
 msgctxt "#31017"
 msgid "Not Installed or Disabled"
@@ -90,7 +91,7 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Voorskoue"
 
 msgctxt "#31019"
 msgid "Directed by"
@@ -98,15 +99,15 @@ msgstr ""
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Geskryf deur"
 
 msgctxt "#31021"
 msgid "Music Library"
-msgstr ""
+msgstr "Musiek Biblioteek"
 
 msgctxt "#31022"
 msgid "Music Files"
-msgstr ""
+msgstr "Musiek Lêers"
 
 msgctxt "#31023"
 msgid "Loading Info..."
@@ -114,11 +115,11 @@ msgstr ""
 
 msgctxt "#31024"
 msgid "of"
-msgstr ""
+msgstr "van"
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "Voorwerpe"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -130,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Voorwerpe"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -147,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Kanaal Groep"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teleteks"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -223,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Muur"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Plakaat"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -321,11 +322,11 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr ""
+msgstr "Stelsel musiek lêers"
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Huidige speellys"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -408,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Lirieke byvoegsel"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -464,11 +465,11 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Lokale onderskrif beskikbaar"
 
 msgctxt "#31167"
 msgid "Settings Level:"
-msgstr ""
+msgstr "Verstellings vlak:"
 
 msgctxt "#31168"
 msgid "Reset Level"
