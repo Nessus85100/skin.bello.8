@@ -1,7 +1,7 @@
 # Translators:
 # Nessus85100 <nessus85100@hotmail.com>, 2019
 # Nessus85100 <nessus85100@hotmail.com>, 2019
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
@@ -10,13 +10,12 @@ msgstr ""
 "PO-Revision-Date: 2019-03-30 23:53+0000\n"
 "Last-Translator: Nessus85100 <nessus85100@hotmail.com>, 2019\n"
 "Language-Team: English (Australia) (https://www.transifex.com/bello-ui/teams/96761/en_AU/)\n"
+"Language: en_AU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_AU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
 msgstr "Live TV"
@@ -61,12 +60,26 @@ msgctxt "#31010"
 msgid "Customize Home Menu"
 msgstr "Customize Home Menu"
 
-#: empty strings from id 31011 to 31012
+msgctxt "#31011"
+msgid "Recommended by TMDB"
+msgstr ""
+
+msgctxt "#31012"
+msgid "More"
+msgstr ""
+
 msgctxt "#31013"
 msgid "Home Menu"
 msgstr "Home Menu"
 
-#: empty strings from id 31014 to 31015
+msgctxt "#31014"
+msgid "Created by"
+msgstr ""
+
+msgctxt "#31015"
+msgid "Similar to"
+msgstr ""
+
 msgctxt "#31016"
 msgid "File Manager"
 msgstr "File Manager"
@@ -80,12 +93,12 @@ msgid "Trailers"
 msgstr "Trailers"
 
 msgctxt "#31019"
-msgid "Movies directed by"
-msgstr "Movies directed by"
+msgid "Directed by"
+msgstr ""
 
 msgctxt "#31020"
-msgid "Movies written by"
-msgstr "Movies written by"
+msgid "Written by"
+msgstr ""
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -96,8 +109,8 @@ msgid "Music Files"
 msgstr "Music Files"
 
 msgctxt "#31023"
-msgid "Info"
-msgstr "Info"
+msgid "Loading Info..."
+msgstr ""
 
 msgctxt "#31024"
 msgid "of"
@@ -116,12 +129,8 @@ msgid "Memory Usage"
 msgstr "Memory Usage"
 
 msgctxt "#31028"
-msgid "Move Left"
-msgstr "Move Left"
-
-msgctxt "#31029"
-msgid "Move Right"
-msgstr "Move Right"
+msgid "Items"
+msgstr ""
 
 msgctxt "#31030"
 msgid "AM"
@@ -147,7 +156,6 @@ msgctxt "#31035"
 msgid "Searching subtitles"
 msgstr "Searching subtitles"
 
-#: empty string id 31036
 msgctxt "#31037"
 msgid "Change Rating"
 msgstr "Change Rating"
@@ -155,14 +163,6 @@ msgstr "Change Rating"
 msgctxt "#31038"
 msgid "Esc"
 msgstr "Esc"
-
-msgctxt "#31039"
-msgid "IP Address"
-msgstr "IP Address"
-
-msgctxt "#31040"
-msgid "Created by"
-msgstr "Created by"
 
 msgctxt "#31041"
 msgid "Creator"
@@ -204,7 +204,6 @@ msgctxt "#31050"
 msgid "Logging off"
 msgstr "Logging off"
 
-#: empty strings from id 31051 to 31079 ViewTypes Labels
 msgctxt "#31080"
 msgid "Slide"
 msgstr "Slide"
@@ -249,14 +248,9 @@ msgctxt "#31090"
 msgid "Tiles"
 msgstr "Tiles"
 
-#: Skin Settings labels
 msgctxt "#31091"
 msgid "Supported Add-ons"
 msgstr "Supported Add-ons"
-
-msgctxt "#31092"
-msgid "Widget"
-msgstr "Widget"
 
 msgctxt "#31093"
 msgid "Quick Navigation Widgets"
@@ -291,12 +285,8 @@ msgid "Thumb Glow"
 msgstr "Thumb Glow"
 
 msgctxt "#31101"
-msgid ""
-"Enable Autocompletion on K/B [COLOR=55white](Requires "
-"plugin.program.autocompletion)[/COLOR]"
-msgstr ""
-"Enable Autocompletion on K/B [COLOR=55white](Requires "
-"plugin.program.autocompletion)[/COLOR]"
+msgid "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
+msgstr "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
 
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
@@ -334,7 +324,30 @@ msgctxt "#31110"
 msgid "OSD layout has changed."
 msgstr "OSD layout has changed."
 
-#: empty strings from id 31111 to 31123
+msgctxt "#31111"
+msgid "Budget"
+msgstr ""
+
+msgctxt "#31112"
+msgid "Revenue"
+msgstr ""
+
+msgctxt "#31113"
+msgid "Awards"
+msgstr ""
+
+msgctxt "#31114"
+msgid "Crew"
+msgstr ""
+
+msgctxt "#31115"
+msgid "Options Menu"
+msgstr ""
+
+msgctxt "#31116"
+msgid "Views Menu"
+msgstr ""
+
 msgctxt "#31124"
 msgid "Flashing Lights"
 msgstr "Flashing Lights"
@@ -371,22 +384,9 @@ msgctxt "#31132"
 msgid "Hide Background Video"
 msgstr "Hide Background Video"
 
-#: empty strings from id 31133 to 31134
-msgctxt "#31135"
-msgid "Single Image"
-msgstr "Single Image"
-
-msgctxt "#31136"
-msgid "Multi Image"
-msgstr "Multi Image"
-
 msgctxt "#31137"
 msgid "Enable Notifications"
 msgstr "Enable Notifications"
-
-msgctxt "#31138"
-msgid "Extra Art [COLOR=55white](Requires script.artwork.downloader)[/COLOR]"
-msgstr "Extra Art [COLOR=55white](Requires script.artwork.downloader)[/COLOR]"
 
 msgctxt "#31139"
 msgid "Enable Add-ons Notifications"
@@ -405,57 +405,16 @@ msgid "Required Add-on"
 msgstr "Required Add-on"
 
 msgctxt "#31143"
-msgid ""
-"Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires "
-"script.tv.show.next.aired)[/COLOR]"
-msgstr ""
-"Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires "
-"script.tv.show.next.aired)[/COLOR]"
-
-#: empty string id 31144
-msgctxt "#31145"
-msgid "Download Extra Art"
-msgstr "Download Extra Art"
-
-msgctxt "#31146"
-msgid "Download logo.png for all TV Shows"
-msgstr "Download logo.png for all TV Shows"
-
-msgctxt "#31147"
-msgid "Download clearart.png for all TV Shows"
-msgstr "Download clearart.png for all TV Shows"
-
-msgctxt "#31148"
-msgid "Download landscape.jpg for all TV Shows"
-msgstr "Download landscape.jpg for all TV Shows"
-
-msgctxt "#31149"
-msgid "Download banner.jpg for all TV Shows"
-msgstr "Download banner.jpg for all TV Shows"
-
-msgctxt "#31150"
-msgid "Download poster.jpg for all TV Shows"
-msgstr "Download poster.jpg for all TV Shows"
+msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
+msgstr "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31151"
 msgid "Show RSS feed in whole skin"
 msgstr "Show RSS feed in whole skin"
 
-msgctxt "#31152"
-msgid "Download landscape.jpg for all Movies"
-msgstr "Download landscape.jpg for all Movies"
-
 msgctxt "#31153"
 msgid "Enable login screen"
 msgstr "Enable login screen"
-
-msgctxt "#31154"
-msgid "Skin Helper Widgets"
-msgstr "Skin Helper Widgets"
-
-msgctxt "#31155"
-msgid "Download poster.jpg for all Movies"
-msgstr "Download poster.jpg for all Movies"
 
 msgctxt "#31156"
 msgid "Manage Video Views"
@@ -468,11 +427,6 @@ msgstr "Manage Music Views"
 msgctxt "#31158"
 msgid "Views"
 msgstr "Views"
-
-#: empty string id 31159
-msgctxt "#31160"
-msgid "Download logo.png for all Movies"
-msgstr "Download logo.png for all Movies"
 
 msgctxt "#31161"
 msgid "Hide home menu extra info"
@@ -491,8 +445,8 @@ msgid "Press DOWN for more info"
 msgstr "Press DOWN for more info"
 
 msgctxt "#31165"
-msgid "Download disc.png for all Movies"
-msgstr "Download disc.png for all Movies"
+msgid "Ends"
+msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
@@ -510,16 +464,6 @@ msgctxt "#31169"
 msgid "Reset Skin"
 msgstr "Reset Skin"
 
-#: empty string id 31170
-msgctxt "#31171"
-msgid "Update Art"
-msgstr "Update Art"
-
-msgctxt "#31172"
-msgid "Update Art after Library Update"
-msgstr "Update Art after Library Update"
-
-#: empty strings from id 31173 to 31199 Scripts Labels
 msgctxt "#31200"
 msgid "My Smartish Movies"
 msgstr "My Smartish Movies"
@@ -605,32 +549,16 @@ msgid "Extra Info"
 msgstr "Extra Info"
 
 msgctxt "#31221"
-msgid "Get Extra Art"
-msgstr "Get Extra Art"
+msgid "Extra art"
+msgstr ""
 
 msgctxt "#31222"
 msgid "Latest Song"
 msgstr "Latest Song"
 
 msgctxt "#31223"
-msgid "36 Hour Forecast"
-msgstr "36 Hour Forecast"
-
-msgctxt "#31224"
-msgid "Hourly Forecast"
-msgstr "Hourly Forecast"
-
-msgctxt "#31225"
-msgid "Weekend Forecast"
-msgstr "Weekend Forecast"
-
-msgctxt "#31226"
-msgid "10 Days Forecast"
-msgstr "10 Days Forecast"
-
-msgctxt "#31227"
-msgid "From"
-msgstr "From"
+msgid "Square"
+msgstr ""
 
 msgctxt "#31228"
 msgid "at"
@@ -645,25 +573,12 @@ msgid "Data Provider"
 msgstr "Data Provider"
 
 msgctxt "#31231"
-msgid "Max Humidity"
-msgstr "Max Humidity"
-
-msgctxt "#31232"
-msgid "Min Humidity"
-msgstr "Min Humidity"
+msgid "Daily"
+msgstr ""
 
 msgctxt "#31233"
 msgid "Location"
 msgstr "Location"
-
-#: empty string id 31234
-msgctxt "#31235"
-msgid "Current Forecast"
-msgstr "Current Forecast"
-
-msgctxt "#31236"
-msgid "Cloudiness"
-msgstr "Cloudiness"
 
 msgctxt "#31237"
 msgid "Popular People"
@@ -714,8 +629,8 @@ msgid "Random TV Shows"
 msgstr "Random TV Shows"
 
 msgctxt "#31249"
-msgid "Random Music"
-msgstr "Random Music"
+msgid "Random Albums"
+msgstr ""
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -730,8 +645,8 @@ msgid "Popular TV Shows"
 msgstr "Popular TV Shows"
 
 msgctxt "#31253"
-msgid "Add YouTube UserID and Title"
-msgstr "Add YouTube UserID and Title"
+msgid "Oscars Winners"
+msgstr ""
 
 msgctxt "#31254"
 msgid "Search on YouTube"
@@ -754,8 +669,8 @@ msgid "Trending TV Shows"
 msgstr "Trending TV Shows"
 
 msgctxt "#31259"
-msgid "Top Artists"
-msgstr "Top Artists"
+msgid "Random Artists"
+msgstr ""
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -790,8 +705,8 @@ msgid "Top Rated TV Shows"
 msgstr "Top Rated TV Shows"
 
 msgctxt "#31268"
-msgid "Near Concerts"
-msgstr "Near Concerts"
+msgid "Random Episodes"
+msgstr ""
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -806,14 +721,17 @@ msgid "TV Show Facts"
 msgstr "TV Show Facts"
 
 msgctxt "#31272"
-msgid "Died:"
-msgstr "Died:"
+msgid "Died"
+msgstr ""
 
 msgctxt "#31273"
 msgid "Photos"
 msgstr "Photos"
 
-#: empty string id 31274
+msgctxt "#31274"
+msgid "Random Songs"
+msgstr ""
+
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
 msgstr "Most Watched TV Shows"
@@ -846,7 +764,6 @@ msgctxt "#31282"
 msgid "Reset & Update Info"
 msgstr "Reset & Update Info"
 
-#: empty strings from id 31283 to 31299 Video and Music OSD Labels
 msgctxt "#31300"
 msgid "Muted"
 msgstr "Muted"
@@ -928,8 +845,8 @@ msgid "Still watching ?"
 msgstr "Still watching ?"
 
 msgctxt "#31320"
-msgid "NextUp will stop in..."
-msgstr "NextUp will stop in..."
+msgid "UpNext will stop in..."
+msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
@@ -947,7 +864,6 @@ msgctxt "#31324"
 msgid "Cache level"
 msgstr "Cache level"
 
-#: empty strings from id 31325 to 31349 PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
 msgstr "Available Groups"
@@ -972,22 +888,17 @@ msgctxt "#31355"
 msgid "Unhide Group"
 msgstr "Unhide Group"
 
-#: empty strings from id 31356 to 31369 Quick Navigation Labels
-msgctxt "#31370"
-msgid "Update Video Library"
-msgstr "Update Video Library"
+msgctxt "#31356"
+msgid "Similar"
+msgstr ""
 
-msgctxt "#31371"
-msgid "Update Music Library"
-msgstr "Update Music Library"
+msgctxt "#31357"
+msgid "Timer"
+msgstr ""
 
-msgctxt "#31372"
-msgid "Clean Video Library"
-msgstr "Clean Video Library"
-
-msgctxt "#31373"
-msgid "Clean Music Library"
-msgstr "Clean Music Library"
+msgctxt "#31358"
+msgid "Small List"
+msgstr ""
 
 msgctxt "#31374"
 msgid "Quick Navigation"
@@ -1013,10 +924,6 @@ msgctxt "#31379"
 msgid "Custom Items"
 msgstr "Custom Items"
 
-msgctxt "#31380"
-msgid "Update Libraries"
-msgstr "Update Libraries"
-
 msgctxt "#31381"
 msgid "Search Video Library"
 msgstr "Search Video Library"
@@ -1041,41 +948,202 @@ msgctxt "#31386"
 msgid "People"
 msgstr "People"
 
-#: empty strings from id 31387 to 31408 Settings Category Description & Header
-#: Labels
 msgctxt "#31409"
-msgid ""
-"Choose from a variety of settings and customization options to make "
-"\"Bello\" fit your needs and taste."
-msgstr ""
-"Choose from a variety of settings and customization options to make "
-"\"Bello\" fit your needs and taste."
+msgid "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
+msgstr "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
 
 msgctxt "#31410"
-msgid ""
-"With Kodi you can have several profiles and the auto login option if the "
-"login screen is disabled."
-msgstr ""
-"With Kodi you can have several profiles and the auto login option if the "
-"login screen is disabled."
+msgid "With Kodi you can have several profiles and the auto login option if the login screen is disabled."
+msgstr "With Kodi you can have several profiles and the auto login option if the login screen is disabled."
 
-#: empty strings from id 31411 to 31430 Help Messages
 msgctxt "#31431"
-msgid ""
-"You haven't added any items to Favorites yet.[CR]Highlight an item, and "
-"choose \"Add to favorites\" from the context menu."
-msgstr ""
-"You haven't added any items to Favorites yet.[CR]Highlight an item, and "
-"choose \"Add to favorites\" from the context menu."
+msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
+msgstr "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
 
 msgctxt "#31432"
 msgid "Please check your Weather service settings."
 msgstr "Please check your Weather service settings."
 
 msgctxt "#31433"
-msgid ""
-"All Skin Settings will revert back to their default state.[CR]Are you sure "
-"you want to proceed ?"
-msgstr ""
-"All Skin Settings will revert back to their default state.[CR]Are you sure "
-"you want to proceed ?"
+msgid "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
+msgstr "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
+
+#~ msgctxt "#31019"
+#~ msgid "Movies directed by"
+#~ msgstr "Movies directed by"
+
+#~ msgctxt "#31020"
+#~ msgid "Movies written by"
+#~ msgstr "Movies written by"
+
+#~ msgctxt "#31023"
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgctxt "#31028"
+#~ msgid "Move Left"
+#~ msgstr "Move Left"
+
+#~ msgctxt "#31029"
+#~ msgid "Move Right"
+#~ msgstr "Move Right"
+
+#~ msgctxt "#31039"
+#~ msgid "IP Address"
+#~ msgstr "IP Address"
+
+#~ msgctxt "#31040"
+#~ msgid "Created by"
+#~ msgstr "Created by"
+
+#~ msgctxt "#31092"
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgctxt "#31135"
+#~ msgid "Single Image"
+#~ msgstr "Single Image"
+
+#~ msgctxt "#31136"
+#~ msgid "Multi Image"
+#~ msgstr "Multi Image"
+
+#~ msgctxt "#31138"
+#~ msgid "Extra Art [COLOR=55white](Requires script.artwork.downloader)[/COLOR]"
+#~ msgstr "Extra Art [COLOR=55white](Requires script.artwork.downloader)[/COLOR]"
+
+#~ msgctxt "#31145"
+#~ msgid "Download Extra Art"
+#~ msgstr "Download Extra Art"
+
+#~ msgctxt "#31146"
+#~ msgid "Download logo.png for all TV Shows"
+#~ msgstr "Download logo.png for all TV Shows"
+
+#~ msgctxt "#31147"
+#~ msgid "Download clearart.png for all TV Shows"
+#~ msgstr "Download clearart.png for all TV Shows"
+
+#~ msgctxt "#31148"
+#~ msgid "Download landscape.jpg for all TV Shows"
+#~ msgstr "Download landscape.jpg for all TV Shows"
+
+#~ msgctxt "#31149"
+#~ msgid "Download banner.jpg for all TV Shows"
+#~ msgstr "Download banner.jpg for all TV Shows"
+
+#~ msgctxt "#31150"
+#~ msgid "Download poster.jpg for all TV Shows"
+#~ msgstr "Download poster.jpg for all TV Shows"
+
+#~ msgctxt "#31152"
+#~ msgid "Download landscape.jpg for all Movies"
+#~ msgstr "Download landscape.jpg for all Movies"
+
+#~ msgctxt "#31154"
+#~ msgid "Skin Helper Widgets"
+#~ msgstr "Skin Helper Widgets"
+
+#~ msgctxt "#31155"
+#~ msgid "Download poster.jpg for all Movies"
+#~ msgstr "Download poster.jpg for all Movies"
+
+#~ msgctxt "#31160"
+#~ msgid "Download logo.png for all Movies"
+#~ msgstr "Download logo.png for all Movies"
+
+#~ msgctxt "#31165"
+#~ msgid "Download disc.png for all Movies"
+#~ msgstr "Download disc.png for all Movies"
+
+#~ msgctxt "#31171"
+#~ msgid "Update Art"
+#~ msgstr "Update Art"
+
+#~ msgctxt "#31172"
+#~ msgid "Update Art after Library Update"
+#~ msgstr "Update Art after Library Update"
+
+#~ msgctxt "#31221"
+#~ msgid "Get Extra Art"
+#~ msgstr "Get Extra Art"
+
+#~ msgctxt "#31223"
+#~ msgid "36 Hour Forecast"
+#~ msgstr "36 Hour Forecast"
+
+#~ msgctxt "#31224"
+#~ msgid "Hourly Forecast"
+#~ msgstr "Hourly Forecast"
+
+#~ msgctxt "#31225"
+#~ msgid "Weekend Forecast"
+#~ msgstr "Weekend Forecast"
+
+#~ msgctxt "#31226"
+#~ msgid "10 Days Forecast"
+#~ msgstr "10 Days Forecast"
+
+#~ msgctxt "#31227"
+#~ msgid "From"
+#~ msgstr "From"
+
+#~ msgctxt "#31231"
+#~ msgid "Max Humidity"
+#~ msgstr "Max Humidity"
+
+#~ msgctxt "#31232"
+#~ msgid "Min Humidity"
+#~ msgstr "Min Humidity"
+
+#~ msgctxt "#31235"
+#~ msgid "Current Forecast"
+#~ msgstr "Current Forecast"
+
+#~ msgctxt "#31236"
+#~ msgid "Cloudiness"
+#~ msgstr "Cloudiness"
+
+#~ msgctxt "#31249"
+#~ msgid "Random Music"
+#~ msgstr "Random Music"
+
+#~ msgctxt "#31253"
+#~ msgid "Add YouTube UserID and Title"
+#~ msgstr "Add YouTube UserID and Title"
+
+#~ msgctxt "#31259"
+#~ msgid "Top Artists"
+#~ msgstr "Top Artists"
+
+#~ msgctxt "#31268"
+#~ msgid "Near Concerts"
+#~ msgstr "Near Concerts"
+
+#~ msgctxt "#31272"
+#~ msgid "Died:"
+#~ msgstr "Died:"
+
+#~ msgctxt "#31320"
+#~ msgid "NextUp will stop in..."
+#~ msgstr "NextUp will stop in..."
+
+#~ msgctxt "#31370"
+#~ msgid "Update Video Library"
+#~ msgstr "Update Video Library"
+
+#~ msgctxt "#31371"
+#~ msgid "Update Music Library"
+#~ msgstr "Update Music Library"
+
+#~ msgctxt "#31372"
+#~ msgid "Clean Video Library"
+#~ msgstr "Clean Video Library"
+
+#~ msgctxt "#31373"
+#~ msgid "Clean Music Library"
+#~ msgstr "Clean Music Library"
+
+#~ msgctxt "#31380"
+#~ msgid "Update Libraries"
+#~ msgstr "Update Libraries"
