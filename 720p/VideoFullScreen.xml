@@ -231,7 +231,6 @@
 				</control>
 			</control>
 			<!-- DISABLED
-			<!-- Audio Codec
 			<control type="group" id="1">
 				<width>68</width>
 				<visible>!String.IsEmpty(VideoPlayer.AudioCodec)</visible>

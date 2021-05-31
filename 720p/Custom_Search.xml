@@ -200,7 +200,7 @@
 					<visible>!Container(3000).IsUpdating</visible>
 				</control>
 				<control type="label">
-					<label>$VAR[CustomSearchTMDBTypeLabel] $LOCALIZE[32299]</label>
+					<label>$VAR[CustomSearchTMDBTypeLabel]</label>
 					<include>TopSmallLabel</include>
 					<visible>![Container(3000).IsUpdating | String.IsEqual(Window(home).Property(YouTubeSearch),true) | String.IsEqual(Window(home).Property(AddonsSearch),true)]</visible>
 				</control>

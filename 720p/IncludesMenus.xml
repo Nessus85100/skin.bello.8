@@ -273,7 +273,7 @@
 				<label>$LOCALIZE[31374]</label>
 				<include>TopLeftMenusButton</include>
 				<onclick>ActivateWindow(PlayerControls)</onclick>
-				<visible>!String.Contains(Control.GetLabel(1001),$LOCALIZE[16105]) + !Skin.HasSetting(DisableQuickNav) + ![Window.IsVisible(LoginScreen) | Window.IsActive(PlayerControls) | Window.IsActive(favourites) | Window.IsActive(script-globalsearch.xml)) | Window.IsActive(fullscreenvideo) | Window.IsActive(videobookmarks) | Window.IsActive(visualisation)]</visible>
+				<visible>!String.Contains(Control.GetLabel(1001),$LOCALIZE[16105]) + !Skin.HasSetting(DisableQuickNav) + ![Window.IsVisible(LoginScreen) | Window.IsActive(PlayerControls) | Window.IsActive(favourites) | Window.IsActive(script-globalsearch.xml) | Window.IsActive(fullscreenvideo) | Window.IsActive(videobookmarks) | Window.IsActive(visualisation)]</visible>
 			</control>
 			<control type="button" id="992">
 				<label>$LOCALIZE[31010]</label>

@@ -1745,7 +1745,8 @@
 			   <label>[COLOR=FFA939FF]ListItem.VideoResolution:[/COLOR] $INFO[ListItem.VideoResolution]</label>
 			  </control>
 		  </control>
-		  <control type="textbox....">
+		  <!--
+		  <control type="textbox">
 			 <right>5</right>
 			 <top>570</top>
 			 <height>185</height>
@@ -1755,6 +1756,7 @@
 		   <align>right</align>
 		   <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.rottentomatoes_consensus)]</label>
 		  </control>
+		  -->
 		</control>
 
 	</controls>
