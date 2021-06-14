@@ -9,6 +9,7 @@ on:
 
 jobs:
   default:
+    if: github.repository == 'Nessus85100/skin.bello.8'
     runs-on: ubuntu-latest
 
     strategy:
