@@ -751,7 +751,7 @@
 	</include>
 
 	<variable name="CustomClickForMoreLists">
-		<value condition="String.IsEqual(ListItem.DBType,movie) + !String.IsEmpty(ListItem.FilenameAndPath) + !String.StartsWith(ListItem.FilenameAndPath,plugin://)">AlarmClock(PlayMovie,PlayMedia($INFO[ListItem.FilenameAndPath]),00:01,silent)</value>
+		<value condition="[String.IsEqual(ListItem.DBType,movie) | String.IsEqual(ListItem.DBType,episode)] + !String.IsEmpty(ListItem.FilenameAndPath) + !String.StartsWith(ListItem.FilenameAndPath,plugin://)">AlarmClock(PlayMovie,PlayMedia($INFO[ListItem.FilenameAndPath]),00:01,silent)</value>
 		<value condition="String.IsEqual(ListItem.DBType,movie) + !String.IsEmpty(ListItem.DBID)">RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&amp;tmdb_id=$INFO[ListItem.Property(tmdb_id)]&amp;type=movie)</value>
 		<value condition="String.IsEqual(ListItem.DBType,episode) + !String.IsEmpty(ListItem.DBID)">RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&amp;tmdb_id=$INFO[ListItem.Property(tmdb_id)]&amp;season=1&amp;episode=1&amp;type=episode)</value>
 		<value condition="[String.IsEqual(ListItem.DBType,tvshow) | String.IsEqual(ListItem.DBType,season)] + !String.IsEmpty(ListItem.DBID)">ActivateWindow(videos,videodb://tvshows/titles/$INFO[ListItem.DBID]/,return)</value>
