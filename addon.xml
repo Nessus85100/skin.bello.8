@@ -12,6 +12,26 @@
 		<res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
 	</extension>
   <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>Creative Commons Attribution-NonCommercial-Share Alike 4.0 International License</license>
+    <forum>https://forum.kodi.tv/forumdisplay.php?fid=198</forum>
+    <email>nessus85100 at hotmail dot com</email>
+    <source>https://github.com/Nessus85100/skin.bello.8</source>
+    <news>For a full list of changes visit https://github.com/Nessus85100/skin.bello.8/commits/master</news>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshot-09.jpg</screenshot>
+			<screenshot>resources/screenshot-10.jpg</screenshot>
+		</assets>
     <summary lang="af">'n GUI vir Kodi Media Sentrum</summary>
     <summary lang="ar">واجهة رسومية لمركز الوسائط Kodi</summary>
     <summary lang="bg">Потребителски интерфейс за Kodi</summary>
@@ -55,25 +75,5 @@
     <disclaimer lang="en_AU">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don't use it in any way for comercial purposes without my prior consentse. I'm not associated with any available Kodi build and i won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
     <disclaimer lang="en_NZ">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don't use it in any way for comercial purposes without my prior consentse. I'm not associated with any available Kodi build and i won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
     <disclaimer lang="en_US">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don't use it in any way for comercial purposes without my prior consentse. I'm not associated with any available Kodi build and i won't give any support to blacklisted, banned or illegal third party addons.</disclaimer>
-    <platform>all</platform>
-    <license>Creative Commons Attribution-NonCommercial-Share Alike 4.0 International License</license>
-    <forum>https://forum.kodi.tv/forumdisplay.php?fid=198</forum>
-    <email>nessus85100 at hotmail dot com</email>
-    <source>https://github.com/Nessus85100/skin.bello.8</source>
-    <news>For a full list of changes visit https://github.com/Nessus85100/skin.bello.8/commits/master</news>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshot-03.jpg</screenshot>
-			<screenshot>resources/screenshot-04.jpg</screenshot>
-			<screenshot>resources/screenshot-05.jpg</screenshot>
-			<screenshot>resources/screenshot-06.jpg</screenshot>
-			<screenshot>resources/screenshot-07.jpg</screenshot>
-			<screenshot>resources/screenshot-08.jpg</screenshot>
-			<screenshot>resources/screenshot-09.jpg</screenshot>
-			<screenshot>resources/screenshot-10.jpg</screenshot>
-		</assets>
   </extension>
 </addon>
