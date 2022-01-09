@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-07-02 13:29+0000\n"
+"PO-Revision-Date: 2022-01-09 09:13+0000\n"
 "Last-Translator: Lao Vansai <eduardpriutesa@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/ru_ru/>\n"
 "Language: ru_RU\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.10.1\n"
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -339,15 +339,15 @@ msgstr "Награды"
 
 msgctxt "#31114"
 msgid "Crew"
-msgstr ""
+msgstr "Команда"
 
 msgctxt "#31115"
 msgid "Options Menu"
-msgstr ""
+msgstr "Меню опций"
 
 msgctxt "#31116"
 msgid "Views Menu"
-msgstr ""
+msgstr "Меню просмотров"
 
 msgctxt "#31124"
 msgid "Flashing Lights"
@@ -447,7 +447,7 @@ msgstr "Нажмите ВНИЗ для получения дополнитель
 
 msgctxt "#31165"
 msgid "Ends"
-msgstr ""
+msgstr "Заканчивается"
 
 msgctxt "#31166"
 msgid "Local subtitle available"
@@ -551,7 +551,7 @@ msgstr "Дополнительная информация"
 
 msgctxt "#31221"
 msgid "Extra art"
-msgstr ""
+msgstr "Дополнительное арт"
 
 msgctxt "#31222"
 msgid "Latest Song"
@@ -575,7 +575,7 @@ msgstr "Поставщик данных"
 
 msgctxt "#31231"
 msgid "Daily"
-msgstr ""
+msgstr "Ежедневный"
 
 msgctxt "#31233"
 msgid "Location"
@@ -647,7 +647,7 @@ msgstr "Популярные сериалы"
 
 msgctxt "#31253"
 msgid "Oscars Winners"
-msgstr ""
+msgstr "Обладатели Оскара"
 
 msgctxt "#31254"
 msgid "Search on YouTube"
@@ -891,15 +891,15 @@ msgstr "Отобразить группы"
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Похожий"
 
 msgctxt "#31357"
 msgid "Timer"
-msgstr ""
+msgstr "Таймер"
 
 msgctxt "#31358"
 msgid "Small List"
-msgstr ""
+msgstr "Маленький список"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
