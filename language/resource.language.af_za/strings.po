@@ -4,9 +4,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-05-28 11:43+0000\n"
+"PO-Revision-Date: 2022-03-01 17:13+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/af_za/>\n"
 "Language: af_za\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.11\n"
 
 #: Misc labels
 msgctxt "#31000"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Onlangs"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -559,7 +559,7 @@ msgstr ""
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgctxt "#31220"
 msgid "Extra Info"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Laas Opdateer"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Ligging"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -650,7 +650,7 @@ msgstr ""
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Lukraak albums"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -710,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Ongekykte TV Vertonings"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -792,7 +792,7 @@ msgstr ""
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Speel"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -824,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Visualisering Instellings"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Visualisering verstellings"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Speel Nou"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -872,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Video dekodeerder"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Pixel formaat"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -890,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Beskikbare groepe"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Voeg groep by"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Verander Groep naam"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Wis Groep uit"
 
 msgctxt "#31354"
 msgid "Hide Group"

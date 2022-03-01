@@ -4,34 +4,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-03-01 17:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Arabic (Saudi Arabia) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/ar_sa/>\n"
 "Language: ar_sa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.11\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "تي في مباشر"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "دليل التلفزيون"
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "البرامج التلفزيونية"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "تم بثه"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "رقم المسار"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "يعمل..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "قائمة السياق"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "فيلم قصير"
 
 msgctxt "#31019"
 msgid "Directed by"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "بند"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "صفحة"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -148,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "مجموعة القناة"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "نصوص التلفاز"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -224,7 +224,7 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "رموز"
 
 msgctxt "#31084"
 msgid "Posters"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "ملحق كلمات الأغاني"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "ترجمة محلية متوفرة"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "حديث"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -563,7 +563,7 @@ msgstr ""
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "معلومات إضافية"
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "محدثة مؤخراً"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "الموقع"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -710,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "المسلسلات التي لم تتم مشاهدتها"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -788,11 +788,11 @@ msgstr ""
 #: Video and Music OSD Labels
 msgctxt "#31300"
 msgid "Muted"
-msgstr ""
+msgstr "صامتة"
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "يشتغل الان"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -824,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "أوضاع المؤثرات البصرية المسبقة"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "إعدادات التأثيرات المرئية"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "يشتغل الان"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -872,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "وحدة فك ترميز الفيديو"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "تنسيق البكسل"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -890,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "المجموعات المتوفره"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "إضافة مجموعة"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "إعادة تسمية مجموعة"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "حذف مجموعة"
 
 msgctxt "#31354"
 msgid "Hide Group"

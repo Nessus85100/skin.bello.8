@@ -4,33 +4,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-03-01 17:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Bulgarian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/bg_bg/>\n"
 "Language: bg_bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "Телевизия"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "ТВ справочник"
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "ТВ Сериали"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Излъчен"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -38,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Аудио запис №"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Работи..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -54,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Контекстно меню"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -90,15 +91,15 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Трейлъри"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Режисиран от"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "По сценарий на"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -118,7 +119,7 @@ msgstr ""
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "Елемент"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -130,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Елемента"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -147,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Група канали"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Телетекст"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -215,7 +216,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Gallery"
-msgstr ""
+msgstr "Галерия"
 
 msgctxt "#31082"
 msgid "3D Wall"
@@ -223,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Стена"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Плакати"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -321,11 +322,11 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr ""
+msgstr "Музикални файлове (системни)"
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Текущ плейлист"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -408,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Добавка за лирики"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -439,7 +440,7 @@ msgstr ""
 
 msgctxt "#31158"
 msgid "Views"
-msgstr ""
+msgstr "Изгледи"
 
 #: empty strings from id 31159 to 31160
 msgctxt "#31161"
@@ -448,7 +449,7 @@ msgstr ""
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr ""
+msgstr "Включи kiosk режима"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -464,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Локално са налични субтитри"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -476,7 +477,7 @@ msgstr ""
 
 msgctxt "#31169"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Нулирай облика"
 
 #: empty strings from id 31170 to 31199
 #: Scripts Labels
@@ -522,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Последни"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -538,7 +539,7 @@ msgstr ""
 
 msgctxt "#31214"
 msgid "Airing"
-msgstr ""
+msgstr "Излъчващи се"
 
 msgctxt "#31215"
 msgid "Next Airs"
@@ -554,15 +555,15 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Портретен изглед"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Лого"
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "Допълнителна инф."
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -574,7 +575,7 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Квадрат"
 
 #: empty strings from id 31224 to 31227
 msgctxt "#31228"
@@ -583,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Последно обновяване"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -596,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Място"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -617,7 +618,7 @@ msgstr ""
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Последно добавени филми"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
@@ -657,7 +658,7 @@ msgstr ""
 
 msgctxt "#31251"
 msgid "Popular Movies"
-msgstr ""
+msgstr "Популярни филми"
 
 msgctxt "#31252"
 msgid "Popular TV Shows"
@@ -681,11 +682,11 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Налагащи се филми"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "Налагащи се ТВ Сериали"
 
 msgctxt "#31259"
 msgid "Random Artists"
@@ -709,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Негледани ТВ предавания"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -717,7 +718,7 @@ msgstr ""
 
 msgctxt "#31266"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Най-високо оценените филми"
 
 msgctxt "#31267"
 msgid "Top Rated TV Shows"
@@ -787,11 +788,11 @@ msgstr ""
 #: Video and Music OSD Labels
 msgctxt "#31300"
 msgid "Muted"
-msgstr ""
+msgstr "Без звук"
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Възпроизвеждане"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -811,7 +812,7 @@ msgstr ""
 
 msgctxt "#31306"
 msgid "Customize Background"
-msgstr ""
+msgstr "Персонален фон"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
@@ -823,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Шаблони за визуализации"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Настройки за визуализацията"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -851,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Сега се възпроизвежда"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -871,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Видео декодер"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Формат на пикселите"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -889,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Налични групи"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Добави група"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Преименувай групата"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Изтрий групата"
 
 msgctxt "#31354"
 msgid "Hide Group"
@@ -913,7 +914,7 @@ msgstr ""
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Подобни"
 
 msgctxt "#31357"
 msgid "Timer"
@@ -964,7 +965,7 @@ msgstr ""
 
 msgctxt "#31384"
 msgid "Search TheMovieDB"
-msgstr ""
+msgstr "Търсене в TheMovieDB"
 
 msgctxt "#31385"
 msgid "Search Actors & Directors"

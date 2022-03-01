@@ -4,33 +4,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-03-01 17:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Catalan (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/ca_es/>\n"
 "Language: ca_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "TV en directe"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "Guia televisiva"
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "Sèries"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Emès"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -38,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Número de pista"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Treballant..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -54,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Menú contextual"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -90,15 +91,15 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Tràilers"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Dirigida per"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Escrita per"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -118,7 +119,7 @@ msgstr ""
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "Element"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -130,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Elements"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -147,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Grup del canal"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teletext"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -223,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Paret"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Cartells"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -408,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Complement de lletres"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -448,7 +449,7 @@ msgstr ""
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr ""
+msgstr "Activa el mode quiosc"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -460,11 +461,11 @@ msgstr ""
 
 msgctxt "#31165"
 msgid "Ends"
-msgstr ""
+msgstr "Finalitza"
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Subtítol local disponible"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -476,7 +477,7 @@ msgstr ""
 
 msgctxt "#31169"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Restableix l'aparença"
 
 #: empty strings from id 31170 to 31199
 #: Scripts Labels
@@ -522,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Recent"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -554,15 +555,15 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Apaïsat"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logotip"
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "Informació extra"
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -583,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Actualització més recent"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -596,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Ubicació"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -649,7 +650,7 @@ msgstr ""
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Àlbums aleatoris"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -709,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Programes de TV no vists"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -787,11 +788,11 @@ msgstr ""
 #: Video and Music OSD Labels
 msgctxt "#31300"
 msgid "Muted"
-msgstr ""
+msgstr "Silenciat"
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Reproduint"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -823,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Visualitzacions predefinides"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Ajusts de la visualització"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -851,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "S'està reproduint"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -871,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Descodificador de vídeo"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Format del píxel"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -889,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Grups disponibles"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Afegeix un grup"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Canvia el nom del grup"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Elimina el grup"
 
 msgctxt "#31354"
 msgid "Hide Group"
