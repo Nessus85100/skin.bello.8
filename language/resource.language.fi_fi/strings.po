@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-01 17:13+0000\n"
+"PO-Revision-Date: 2022-03-19 06:46+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Misc labels
 msgctxt "#31000"
@@ -31,7 +31,7 @@ msgstr "Sarjat"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Esitetty"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Kappalenumero"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Suoritetaan..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Sisältövalikko"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -79,7 +79,7 @@ msgstr ""
 
 msgctxt "#31015"
 msgid "Similar to"
-msgstr ""
+msgstr "Samanlaisia kuin"
 
 msgctxt "#31016"
 msgid "File Manager"
@@ -87,19 +87,19 @@ msgstr ""
 
 msgctxt "#31017"
 msgid "Not Installed or Disabled"
-msgstr ""
+msgstr "Asentamaton tai poistettu käytöstä"
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Trailerit"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Ohjaus"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Käsikirjoitus"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "Kohde"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Kohdetta"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -148,15 +148,15 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Kanavaryhmä"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teksti-TV"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
-msgstr ""
+msgstr "Etsitään tekstityksiä"
 
 #: empty string id 31036
 msgctxt "#31037"
@@ -170,7 +170,7 @@ msgstr ""
 #: empty strings from id 31039 to 31040
 msgctxt "#31041"
 msgid "Creator"
-msgstr ""
+msgstr "Kehittäjä"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
@@ -216,7 +216,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Gallery"
-msgstr ""
+msgstr "Galleria"
 
 msgctxt "#31082"
 msgid "3D Wall"
@@ -224,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Seinä"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Julisteet"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -236,7 +236,7 @@ msgstr ""
 
 msgctxt "#31086"
 msgid "Banner List"
-msgstr ""
+msgstr "Bannerilista"
 
 msgctxt "#31087"
 msgid "VideoWall"
@@ -257,7 +257,7 @@ msgstr ""
 #: Skin Settings labels
 msgctxt "#31091"
 msgid "Supported Add-ons"
-msgstr ""
+msgstr "Tuetut lisäosat"
 
 #: empty string id 31092
 msgctxt "#31093"
@@ -326,7 +326,7 @@ msgstr ""
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Nykyinen toistolista"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -334,19 +334,19 @@ msgstr ""
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Budjetti"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Tuotto"
 
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Palkinnot"
 
 msgctxt "#31114"
 msgid "Crew"
-msgstr ""
+msgstr "Henkilöstö"
 
 msgctxt "#31115"
 msgid "Options Menu"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Sanoituslisäosa"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -440,7 +440,7 @@ msgstr ""
 
 msgctxt "#31158"
 msgid "Views"
-msgstr ""
+msgstr "Näkymät"
 
 #: empty strings from id 31159 to 31160
 msgctxt "#31161"
@@ -449,7 +449,7 @@ msgstr ""
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr ""
+msgstr "Käytä kioskitilaa"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Paikallinen tekstitys on käytettävissä"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "#31169"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Palauta ulkoasun asetukset"
 
 #: empty strings from id 31170 to 31199
 #: Scripts Labels
@@ -499,7 +499,7 @@ msgstr ""
 
 msgctxt "#31204"
 msgid "Top 250 Movies"
-msgstr ""
+msgstr "250 parasta elokuvaa"
 
 msgctxt "#31205"
 msgid "My Smartish TV Channels"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Viimeisimmät"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -531,7 +531,7 @@ msgstr ""
 
 msgctxt "#31212"
 msgid "Latest Episode"
-msgstr ""
+msgstr "Viimeisin jakso"
 
 msgctxt "#31213"
 msgid "Latest Album"
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#31214"
 msgid "Airing"
-msgstr ""
+msgstr "Esitetään"
 
 msgctxt "#31215"
 msgid "Next Airs"
@@ -555,15 +555,15 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Landscape"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "Lisätiedot"
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -575,7 +575,7 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Neliö"
 
 #: empty strings from id 31224 to 31227
 msgctxt "#31228"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Viimeksi päivitetty"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,12 +597,12 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Sijainti"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
 msgid "Popular People"
-msgstr ""
+msgstr "Suosittuja henkilöitä"
 
 msgctxt "#31238"
 msgid "No Shows airing today.[CR]Press LEFT to select different day."
@@ -618,11 +618,11 @@ msgstr ""
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Viimeksi lisätyt elokuvat"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
-msgstr ""
+msgstr "Viimeksi lisätyt sarjat"
 
 msgctxt "#31243"
 msgid "Recently Added Music"
@@ -642,27 +642,27 @@ msgstr ""
 
 msgctxt "#31247"
 msgid "Random Movies"
-msgstr ""
+msgstr "Satunnaiset elokuvat"
 
 msgctxt "#31248"
 msgid "Random TV Shows"
-msgstr ""
+msgstr "Satunnaiset sarjat"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Satunnaiset albumit"
 
 msgctxt "#31250"
 msgid "Coming Soon"
-msgstr ""
+msgstr "Tulossa pian"
 
 msgctxt "#31251"
 msgid "Popular Movies"
-msgstr ""
+msgstr "Suositut elokuvat"
 
 msgctxt "#31252"
 msgid "Popular TV Shows"
-msgstr ""
+msgstr "Suositut sarjat"
 
 msgctxt "#31253"
 msgid "Oscars Winners"
@@ -682,15 +682,15 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Elokuvanousijat"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "Sarjanousijat"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Satunnaiset esittäjät"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -706,27 +706,27 @@ msgstr ""
 
 msgctxt "#31263"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "Katsomattomat elokuvat"
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Katsomattomat sarjat"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "Katsomattomat jaksot"
 
 msgctxt "#31266"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Parhaiten arvioidut elokuvat"
 
 msgctxt "#31267"
 msgid "Top Rated TV Shows"
-msgstr ""
+msgstr "Parhaiten arvioidut sarjat"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Satunnaiset jaksot"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -742,15 +742,15 @@ msgstr ""
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Kuoli"
 
 msgctxt "#31273"
 msgid "Photos"
-msgstr ""
+msgstr "Valokuvat"
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Satunnaiset kappaleet"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -792,11 +792,11 @@ msgstr ""
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Toistetaan"
 
 msgctxt "#31302"
 msgid "Paused"
-msgstr ""
+msgstr "Tauotettu"
 
 msgctxt "#31303"
 msgid "Rewinding:"
@@ -812,7 +812,7 @@ msgstr ""
 
 msgctxt "#31306"
 msgid "Customize Background"
-msgstr ""
+msgstr "Mukauta taustaa"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
@@ -824,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Visualisoinnin esiasetukset"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Visualisoinnin asetukset"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -848,11 +848,11 @@ msgstr ""
 
 msgctxt "#31315"
 msgid "Hide Scrolling Titles"
-msgstr ""
+msgstr "Piilota vieritettävät nimet"
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Toistetaan parhaillaan"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -872,15 +872,15 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Videodekooderi"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Pikselimuoto"
 
 msgctxt "#31323"
 msgid "CPU usage"
-msgstr ""
+msgstr "Prosessorin kuormitus"
 
 msgctxt "#31324"
 msgid "Cache level"
@@ -890,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Mahdolliset ryhmät"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Lisää ryhmä"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Nimeä ryhmä uudelleen"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Poista ryhmä"
 
 msgctxt "#31354"
 msgid "Hide Group"
@@ -914,7 +914,7 @@ msgstr ""
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Samankaltaisia"
 
 msgctxt "#31357"
 msgid "Timer"
@@ -965,7 +965,7 @@ msgstr ""
 
 msgctxt "#31384"
 msgid "Search TheMovieDB"
-msgstr ""
+msgstr "Etsi TheMovieDB:stä"
 
 msgctxt "#31385"
 msgid "Search Actors & Directors"
@@ -973,7 +973,7 @@ msgstr ""
 
 msgctxt "#31386"
 msgid "People"
-msgstr ""
+msgstr "Henkilöt"
 
 #: empty strings from id 31387 to 31408
 #: Settings Category Description & Header Labels
