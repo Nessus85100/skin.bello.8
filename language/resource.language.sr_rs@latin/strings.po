@@ -4,22 +4,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: sr_Latn\n"
+"PO-Revision-Date: 2022-04-12 15:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Serbian (latin) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/sr_Latn/>\n"
+"Language: sr_rs@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "Телевизија уживо"
 
 msgctxt "#31001"
 msgid "TV Guide"
@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "TV SERIJE"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Emitovano"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Broj numere"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Obrada..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Meni Opcija"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -91,15 +91,15 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Najava"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Režirano od strane"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Napisao"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Stavki"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -148,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Grupa kanala"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teletekst"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -216,7 +216,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Gallery"
-msgstr ""
+msgstr "Galerija"
 
 msgctxt "#31082"
 msgid "3D Wall"
@@ -224,7 +224,7 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Ikone"
 
 msgctxt "#31084"
 msgid "Posters"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Dodatak za tekstove pesama"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Lokalni prevod dostupan"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Skorašnje"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -555,11 +555,11 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Horizontalno"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgctxt "#31220"
 msgid "Extra Info"
@@ -575,7 +575,7 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Kvadrat"
 
 #: empty strings from id 31224 to 31227
 msgctxt "#31228"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Poslednje ažuriranje"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Lokacija"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -682,11 +682,11 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Filmovi u trendu"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "TV Serije u trendu"
 
 msgctxt "#31259"
 msgid "Random Artists"
@@ -710,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Neodgledane TV Serije"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -792,7 +792,7 @@ msgstr ""
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Reprodukcija"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -824,7 +824,7 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Unapred Zadate Vizualizacije"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Trenutno se reprodukuje"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -872,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Video dekoder"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Oblik prikaza piksela"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -894,15 +894,15 @@ msgstr ""
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Dodaj grupu"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Преименуј групу"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Обриши групу"
 
 msgctxt "#31354"
 msgid "Hide Group"

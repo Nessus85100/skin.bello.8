@@ -4,26 +4,26 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-12 15:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Ukrainian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/uk_ua/>\n"
 "Language: uk_ua\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "ТБ"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "Графік виходу епізодів"
 
 msgctxt "#31002"
 msgid "TV Shows"
@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Прем'єра"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Номер треку"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Зачекайте…"
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Контекстне меню"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -91,11 +91,11 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Трейлери"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Режисер"
 
 msgctxt "#31020"
 msgid "Written by"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "#31025"
 msgid "Item"
-msgstr ""
+msgstr "Елемент"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "у списку"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -148,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Група каналів"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Телетекст"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -216,7 +216,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Gallery"
-msgstr ""
+msgstr "Галерея"
 
 msgctxt "#31082"
 msgid "3D Wall"
@@ -224,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Стіна"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Постер"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Надбудова текстів пісень"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Доступні локальні субтитри"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Нещодавні"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -555,11 +555,11 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Пейзаж"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Логотип"
 
 msgctxt "#31220"
 msgid "Extra Info"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Останнє оновлення"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Розташування"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -682,11 +682,11 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Популярні фільми"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "Популярні телешоу"
 
 msgctxt "#31259"
 msgid "Random Artists"
@@ -710,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Непереглянуті серіали"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -792,7 +792,7 @@ msgstr ""
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Відтворення"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -824,7 +824,7 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Налаштування візуалізації"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Зараз відтворюється"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -872,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Декодер відео"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Формат пікселів"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -894,15 +894,15 @@ msgstr ""
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Додати групу"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Перейменувати групу"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Видалити групу"
 
 msgctxt "#31354"
 msgid "Hide Group"

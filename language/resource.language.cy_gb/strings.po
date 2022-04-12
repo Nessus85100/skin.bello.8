@@ -4,22 +4,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-12 15:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Welsh (United Kingdom) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/cy_gb/>\n"
 "Language: cy_gb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
-"(n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "Teledu"
 
 msgctxt "#31001"
 msgid "TV Guide"
@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Darlledwyd"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Rhif Trac"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Gweithio..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Dewislen Cyd-destun"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Rhaghysbyseb"
 
 msgctxt "#31019"
 msgid "Directed by"
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Eitem"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -148,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Grŵp Sianel"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teludestun"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -224,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Eiconau"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Poster"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Ychwanegyn Geiriau Caneuon"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Isdeitlau lleol ar gael"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Diweddar"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -584,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Diweddarwyd Diwethaf"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -597,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Lleoliad"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -792,7 +792,7 @@ msgstr ""
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Chwarae"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -824,7 +824,7 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Rhagosodiaid Delweddu"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Nawr yn Chwarae"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -894,15 +894,15 @@ msgstr ""
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Pob Grŵp"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Ailenwi Grŵp"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Dileu Grŵp"
 
 msgctxt "#31354"
 msgid "Hide Group"

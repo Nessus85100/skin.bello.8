@@ -4,33 +4,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-03-30 23:53+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-12 15:13+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Slovak <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/sk_sk/>\n"
 "Language: sk_sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Misc labels
 msgctxt "#31000"
 msgid "Live TV"
-msgstr ""
+msgstr "Živé TV vysielanie"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr ""
+msgstr "Televízny program"
 
 msgctxt "#31002"
 msgid "TV Shows"
-msgstr ""
+msgstr "Seriály"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr ""
+msgstr "Vysielané"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -38,11 +39,11 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr ""
+msgstr "Číslo skladby"
 
 msgctxt "#31006"
 msgid "Working..."
-msgstr ""
+msgstr "Pracujem..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
@@ -54,7 +55,7 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontextové menu"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
@@ -90,15 +91,15 @@ msgstr ""
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Upútavky na film"
 
 msgctxt "#31019"
 msgid "Directed by"
-msgstr ""
+msgstr "Režia"
 
 msgctxt "#31020"
 msgid "Written by"
-msgstr ""
+msgstr "Scenár"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -130,7 +131,7 @@ msgstr ""
 
 msgctxt "#31028"
 msgid "Items"
-msgstr ""
+msgstr "Položky"
 
 #: empty string id 31029
 msgctxt "#31030"
@@ -147,11 +148,11 @@ msgstr ""
 
 msgctxt "#31033"
 msgid "Channel Group"
-msgstr ""
+msgstr "Skupina kanálu"
 
 msgctxt "#31034"
 msgid "Teletext"
-msgstr ""
+msgstr "Teletext"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
@@ -169,7 +170,7 @@ msgstr ""
 #: empty strings from id 31039 to 31040
 msgctxt "#31041"
 msgid "Creator"
-msgstr ""
+msgstr "Tvorca"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
@@ -215,7 +216,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Gallery"
-msgstr ""
+msgstr "Galéria"
 
 msgctxt "#31082"
 msgid "3D Wall"
@@ -223,11 +224,11 @@ msgstr ""
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr ""
+msgstr "Nástenka"
 
 msgctxt "#31084"
 msgid "Posters"
-msgstr ""
+msgstr "Plagáty"
 
 msgctxt "#31085"
 msgid "Thumbnails"
@@ -256,7 +257,7 @@ msgstr ""
 #: Skin Settings labels
 msgctxt "#31091"
 msgid "Supported Add-ons"
-msgstr ""
+msgstr "Podporované Doplnky"
 
 #: empty string id 31092
 msgctxt "#31093"
@@ -325,7 +326,7 @@ msgstr ""
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Aktuálny Playlist"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -333,15 +334,15 @@ msgstr ""
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Rozpočet"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Tržby"
 
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Ocenenia"
 
 msgctxt "#31114"
 msgid "Crew"
@@ -408,7 +409,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Doplnok Texty skladieb"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -439,7 +440,7 @@ msgstr ""
 
 msgctxt "#31158"
 msgid "Views"
-msgstr ""
+msgstr "Zobrazenia"
 
 #: empty strings from id 31159 to 31160
 msgctxt "#31161"
@@ -448,7 +449,7 @@ msgstr ""
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr ""
+msgstr "Povoliť Kiosk Mód"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -464,7 +465,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Sú k dispozícii lokálne titulky"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -476,7 +477,7 @@ msgstr ""
 
 msgctxt "#31169"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Obnoviť vzhľad"
 
 #: empty strings from id 31170 to 31199
 #: Scripts Labels
@@ -522,7 +523,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Nedávne"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -554,15 +555,15 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Na šírku"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "Extra informácie"
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -583,7 +584,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Naposledy aktualizované"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -596,7 +597,7 @@ msgstr ""
 #: empty string id 31232
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Mesto"
 
 #: empty strings from id 31234 to 31236
 msgctxt "#31237"
@@ -617,7 +618,7 @@ msgstr ""
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Nedávno Pridané Filmy"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
@@ -629,11 +630,11 @@ msgstr ""
 
 msgctxt "#31244"
 msgid "Kids Movies"
-msgstr ""
+msgstr "Detské Filmy"
 
 msgctxt "#31245"
 msgid "Kids TV Shows"
-msgstr ""
+msgstr "Detské Seriály"
 
 msgctxt "#31246"
 msgid "TV Shows Airing Today"
@@ -645,7 +646,7 @@ msgstr ""
 
 msgctxt "#31248"
 msgid "Random TV Shows"
-msgstr ""
+msgstr "Náhodné seriály"
 
 msgctxt "#31249"
 msgid "Random Albums"
@@ -657,7 +658,7 @@ msgstr ""
 
 msgctxt "#31251"
 msgid "Popular Movies"
-msgstr ""
+msgstr "Obľúbené filmy"
 
 msgctxt "#31252"
 msgid "Popular TV Shows"
@@ -681,11 +682,11 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Najsledovanejšie filmy"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "Najsledovanejšie serály"
 
 msgctxt "#31259"
 msgid "Random Artists"
@@ -709,7 +710,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Nevidené seriály"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -717,11 +718,11 @@ msgstr ""
 
 msgctxt "#31266"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Najviac hodnotené filmy"
 
 msgctxt "#31267"
 msgid "Top Rated TV Shows"
-msgstr ""
+msgstr "Najlepšie Hodnotené Seriály"
 
 msgctxt "#31268"
 msgid "Random Episodes"
@@ -745,7 +746,7 @@ msgstr ""
 
 msgctxt "#31273"
 msgid "Photos"
-msgstr ""
+msgstr "Fotky"
 
 msgctxt "#31274"
 msgid "Random Songs"
@@ -787,11 +788,11 @@ msgstr ""
 #: Video and Music OSD Labels
 msgctxt "#31300"
 msgid "Muted"
-msgstr ""
+msgstr "Stíšené"
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Práve hrá"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -811,7 +812,7 @@ msgstr ""
 
 msgctxt "#31306"
 msgid "Customize Background"
-msgstr ""
+msgstr "Prispôsobiť pozadie"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
@@ -823,11 +824,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Predvoľby vizualizácií"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Nastavenia Vizualizácie"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -851,7 +852,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Práve hrá"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -871,11 +872,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Dekodér videa"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Formát pixelu"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -889,19 +890,19 @@ msgstr ""
 #: PVR Labels
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Dostupné skupiny"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Pridať skupinu"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Premenovať skupinu"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Odstrániť skupinu"
 
 msgctxt "#31354"
 msgid "Hide Group"
