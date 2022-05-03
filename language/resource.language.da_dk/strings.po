@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-12-07 22:13+0000\n"
+"PO-Revision-Date: 2022-05-03 15:14+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/da_dk/>\n"
 "Language: da_dk\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: Misc labels
 msgctxt "#31000"
@@ -23,7 +23,7 @@ msgstr "Direkte tv"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr "TV guide"
+msgstr "Tv-guide"
 
 msgctxt "#31002"
 msgid "TV Shows"
@@ -51,7 +51,7 @@ msgstr "Vent venligst..."
 
 msgctxt "#31008"
 msgid "System auto shutdown in"
-msgstr "Systemet lukker automatisk ned om"
+msgstr "Systemet lukker automatisk om"
 
 msgctxt "#31009"
 msgid "Context Menu"
@@ -59,7 +59,7 @@ msgstr "Kontekstmenu"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
-msgstr ""
+msgstr "Tilpas hovedmenu"
 
 msgctxt "#31011"
 msgid "Recommended by TMDB"
@@ -75,7 +75,7 @@ msgstr "Hovedmenu"
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Skabt af"
 
 msgctxt "#31015"
 msgid "Similar to"
@@ -123,7 +123,7 @@ msgstr "Emne"
 
 msgctxt "#31026"
 msgid "Scrolling..."
-msgstr ""
+msgstr "Ruller..."
 
 msgctxt "#31027"
 msgid "Memory Usage"
@@ -144,7 +144,7 @@ msgstr "Eftermiddag"
 
 msgctxt "#31032"
 msgid "User Login"
-msgstr ""
+msgstr "Brugerlogin"
 
 msgctxt "#31033"
 msgid "Channel Group"
@@ -156,21 +156,21 @@ msgstr "Tekst-tv"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
-msgstr ""
+msgstr "Søger efter undertekster"
 
 #: empty string id 31036
 msgctxt "#31037"
 msgid "Change Rating"
-msgstr ""
+msgstr "Ændring af bedømmelse"
 
 msgctxt "#31038"
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #: empty strings from id 31039 to 31040
 msgctxt "#31041"
 msgid "Creator"
-msgstr ""
+msgstr "Ophavsmand"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
@@ -178,7 +178,7 @@ msgstr "Velkommen til Bello!"
 
 msgctxt "#31043"
 msgid "Thank you for using Bello!"
-msgstr ""
+msgstr "Tak fordi du bruger Bello!"
 
 msgctxt "#31044"
 msgid "Starting"
@@ -186,11 +186,11 @@ msgstr "Starter"
 
 msgctxt "#31045"
 msgid "Exiting"
-msgstr ""
+msgstr "Afslutter"
 
 msgctxt "#31046"
 msgid "Powering off"
-msgstr ""
+msgstr "Lukker ned"
 
 msgctxt "#31047"
 msgid "Suspending"
@@ -848,7 +848,7 @@ msgstr ""
 
 msgctxt "#31315"
 msgid "Hide Scrolling Titles"
-msgstr ""
+msgstr "Skjul rullende titler"
 
 msgctxt "#31316"
 msgid "Now Playing"
