@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-27 01:19+0000\n"
+"PO-Revision-Date: 2022-05-09 13:14+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/id_id/>\n"
 "Language: id_id\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: Misc labels
 msgctxt "#31000"
@@ -170,7 +170,7 @@ msgstr ""
 #: empty strings from id 31039 to 31040
 msgctxt "#31041"
 msgid "Creator"
-msgstr ""
+msgstr "Kreator"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
@@ -326,7 +326,7 @@ msgstr ""
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Daftar Putar saat ini"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -575,7 +575,7 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Kotak"
 
 #: empty strings from id 31224 to 31227
 msgctxt "#31228"
@@ -618,7 +618,7 @@ msgstr ""
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Film yang Baru Ditambahkan"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
@@ -630,11 +630,11 @@ msgstr ""
 
 msgctxt "#31244"
 msgid "Kids Movies"
-msgstr ""
+msgstr "Film Anak-anak"
 
 msgctxt "#31245"
 msgid "Kids TV Shows"
-msgstr ""
+msgstr "Acara TV Anak-anak"
 
 msgctxt "#31246"
 msgid "TV Shows Airing Today"
@@ -718,11 +718,11 @@ msgstr ""
 
 msgctxt "#31266"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Film Berperingkat Teratas"
 
 msgctxt "#31267"
 msgid "Top Rated TV Shows"
-msgstr ""
+msgstr "Acara TV Berperingkat Teratas"
 
 msgctxt "#31268"
 msgid "Random Episodes"
@@ -746,7 +746,7 @@ msgstr ""
 
 msgctxt "#31273"
 msgid "Photos"
-msgstr ""
+msgstr "Foto"
 
 msgctxt "#31274"
 msgid "Random Songs"
