@@ -38,22 +38,23 @@
     <summary lang="ca_ES">Una interfície gràfica per a l&apos;Kodi</summary>
     <summary lang="da_DK">En GUI til Kodi Media Center</summary>
     <summary lang="de_DE">Ein GUI für das Kodi Media Center</summary>
+    <summary lang="el_GR">Ένα Γραφικό Περιβάλλον για το Κέντρο Πολυμέσων Kodi</summary>
     <summary lang="en_AU">A GUI for Kodi Media Centre</summary>
     <summary lang="en_GB">A GUI for Kodi Media Center</summary>
     <summary lang="en_NZ">A GUI for Kodi Media Centre</summary>
     <summary lang="en_US">A GUI for Kodi Media Center</summary>
     <summary lang="es_ES">Una interfaz gráfica para Kodi</summary>
-    <summary lang="fr_CA">Une IUG pour le centre multimédia Kodi </summary>
+    <summary lang="fr_CA">Une IUG pour le centre multimédia Kodi</summary>
     <summary lang="fr_FR">Un thème pour Kodi Media Center</summary>
     <summary lang="gl_ES">Un GUI para Centro de Medios Kodi</summary>
     <summary lang="he_IL">ממשק משתמש עבור Kodi מדיה סנטר</summary>
-    <summary lang="hu_HU">Felszín az  Kodi Média centerhez</summary>
+    <summary lang="hu_HU">Felszín az Kodi Média centerhez</summary>
     <summary lang="it_IT">Un Interfaccia per Kodi Media Center</summary>
     <summary lang="ja_JP">Kodi メディアセンター用 GUI</summary>
     <summary lang="ko_KR">Kodi Media Center를 위한 그래픽 사용자 인터페이스</summary>
     <summary lang="lt_LT">Kodi media centro GUI</summary>
     <summary lang="ms_MY">GUI untuk Pusat Media Kodi</summary>
-    <summary lang="nl_NL">Een gebruikersinterface voor Kodi Media Center </summary>
+    <summary lang="nl_NL">Een gebruikersinterface voor Kodi Media Center</summary>
     <summary lang="pl_PL">Interfejs użytkownika dla Kodi Media Center</summary>
     <summary lang="pt_BR">Uma interface gráfica para o Kodi Media Center</summary>
     <summary lang="pt_PT">Uma Interface para o Centro de Média Kodi</summary>
@@ -69,10 +70,14 @@
     <description lang="en_GB">This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!</description>
     <description lang="en_NZ">This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!</description>
     <description lang="en_US">This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!</description>
+    <description lang="es_ES">Esta es la octava generacion de la skin Bello para Kodi. Bello 8 esta enfocada para maximizar tu experiencia de entretenmiento con Kodi con su interfaz NUEVA, Única, Limpia y Elegante mientras le da a los usuarios gran nivel de personalización ¡y un montón de características molonas!</description>
+    <description lang="zh_CN">这是 Kodi 的第 8 代 Bello 皮肤。Bello 8 旨在通过其全新的独特、干净和优雅的界面，最大限度地提高您的 Kodi 娱乐体验，同时为用户提供高度定制级别和许多炫酷功能！</description>
     <disclaimer lang="el_GR">Ποντίκι, Παιχνιδια και οθόνες αφης δεν υποστηρίζονται. Με την εγκατάσταση αυτού του γραφικού περιβάλλοντος συμφωνείτε ότι δεν το χρησιμοποιείτε με οποιονδήποτε τρόπο για εμπορικούς σκοπούς χωρίς την προηγούμενη συγκατάθεσή μου. Δεν έχω καμμία σχέση με κανένα προσαρμοσμένο λογισμικό Kodi (Build) και δεν θα παρέχω καμία υποστήριξη σε απαγορευμένα ή παράνομα πρόσθετα τρίτων.</disclaimer>
     <disclaimer lang="en_AU">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don&apos;t use it in any way for comercial purposes without my prior consentse. I&apos;m not associated with any available Kodi build and i won&apos;t give any support to blacklisted, banned or illegal third party addons.</disclaimer>
     <disclaimer lang="en_GB">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don&apos;t use it in any way for comercial purposes without my prior consentse. I&apos;m not associated with any available Kodi build and i won&apos;t give any support to blacklisted, banned or illegal third party addons.</disclaimer>
     <disclaimer lang="en_NZ">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don&apos;t use it in any way for comercial purposes without my prior consentse. I&apos;m not associated with any available Kodi build and i won&apos;t give any support to blacklisted, banned or illegal third party addons.</disclaimer>
     <disclaimer lang="en_US">Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don&apos;t use it in any way for comercial purposes without my prior consentse. I&apos;m not associated with any available Kodi build and i won&apos;t give any support to blacklisted, banned or illegal third party addons.</disclaimer>
+    <disclaimer lang="es_ES">No se soporta Ratón, Juegos ni pantallas táctiles. Al instalar esta skin estás de acuerdo en no usarla de ninguna manera para fines comerciales sin mi previo consentimiento. No estoy asociado con ninguna construcción de Kodi y no daré ningun soporte a addons de terceros ilegales, baneados o en lista negra.</disclaimer>
+    <disclaimer lang="zh_CN">不支持使用鼠标、游戏和触摸屏。安装此皮肤表示您同意，未经我事先同意，您不得以任何方式将其用于商业目的。我与任何可用的 Kodi 发行版都没有关联，我不会对列入黑名单、被禁止或非法的第三方插件提供任何支持。</disclaimer>
   </extension>
 </addon>
