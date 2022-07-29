@@ -4,9 +4,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-05-03 15:14+0000\n"
+"PO-Revision-Date: 2022-07-29 13:57+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/da_dk/>\n"
 "Language: da_dk\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13\n"
 
 msgctxt "Addon Summary"
 msgid "A GUI for Kodi Media Center"
-msgstr "En GUI til Kodi Media Center"
+msgstr "En grafisk brugerflade til Kodi Media Center"
 
 msgctxt "Addon Description"
 msgid "This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!"
@@ -218,7 +218,7 @@ msgstr "Logger af"
 
 msgctxt "#31080"
 msgid "Slide"
-msgstr ""
+msgstr "Glid"
 
 msgctxt "#31081"
 msgid "Gallery"
@@ -326,11 +326,11 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr ""
+msgstr "Musikfiler i system"
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr ""
+msgstr "Nuværende playliste"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -338,19 +338,19 @@ msgstr ""
 
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Budget"
 
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Indtægter"
 
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Priser"
 
 msgctxt "#31114"
 msgid "Crew"
-msgstr ""
+msgstr "Mandskab"
 
 msgctxt "#31115"
 msgid "Options Menu"
@@ -410,7 +410,7 @@ msgstr ""
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr ""
+msgstr "Add-on til sangtekster"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -438,7 +438,7 @@ msgstr ""
 
 msgctxt "#31158"
 msgid "Views"
-msgstr ""
+msgstr "Visninger"
 
 msgctxt "#31161"
 msgid "Hide home menu extra info"
@@ -446,7 +446,7 @@ msgstr ""
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr ""
+msgstr "Aktiver Kiosk-tilstand"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -462,7 +462,7 @@ msgstr ""
 
 msgctxt "#31166"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Lokal undertekst tilgængelig"
 
 msgctxt "#31167"
 msgid "Settings Level:"
@@ -474,7 +474,7 @@ msgstr ""
 
 msgctxt "#31169"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Nulstil skin"
 
 msgctxt "#31200"
 msgid "My Smartish Movies"
@@ -518,7 +518,7 @@ msgstr ""
 
 msgctxt "#31210"
 msgid "Recent"
-msgstr ""
+msgstr "Seneste"
 
 msgctxt "#31211"
 msgid "Latest Movie"
@@ -550,15 +550,15 @@ msgstr ""
 
 msgctxt "#31218"
 msgid "Landscape"
-msgstr ""
+msgstr "Landskab"
 
 msgctxt "#31219"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgctxt "#31220"
 msgid "Extra Info"
-msgstr ""
+msgstr "Ekstra info"
 
 msgctxt "#31221"
 msgid "Extra art"
@@ -570,7 +570,7 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Square"
-msgstr ""
+msgstr "Kvadrat"
 
 msgctxt "#31228"
 msgid "at"
@@ -578,7 +578,7 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Last Updated"
-msgstr ""
+msgstr "Sidst opdateret"
 
 msgctxt "#31230"
 msgid "Data Provider"
@@ -590,7 +590,7 @@ msgstr ""
 
 msgctxt "#31233"
 msgid "Location"
-msgstr ""
+msgstr "Placering"
 
 msgctxt "#31237"
 msgid "Popular People"
@@ -634,7 +634,7 @@ msgstr ""
 
 msgctxt "#31247"
 msgid "Random Movies"
-msgstr ""
+msgstr "Tilfældige film"
 
 msgctxt "#31248"
 msgid "Random TV Shows"
@@ -642,7 +642,7 @@ msgstr ""
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Tilfældige albummer"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -650,7 +650,7 @@ msgstr ""
 
 msgctxt "#31251"
 msgid "Popular Movies"
-msgstr ""
+msgstr "Populære film"
 
 msgctxt "#31252"
 msgid "Popular TV Shows"
@@ -674,11 +674,11 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Trending Movies"
-msgstr ""
+msgstr "Populære film"
 
 msgctxt "#31258"
 msgid "Trending TV Shows"
-msgstr ""
+msgstr "Populære tv-serier"
 
 msgctxt "#31259"
 msgid "Random Artists"
@@ -702,7 +702,7 @@ msgstr ""
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Usete tv-serier"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
@@ -742,7 +742,7 @@ msgstr ""
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Tilfældige sange"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -778,11 +778,11 @@ msgstr ""
 
 msgctxt "#31300"
 msgid "Muted"
-msgstr ""
+msgstr "Lyd slået fra"
 
 msgctxt "#31301"
 msgid "Playing"
-msgstr ""
+msgstr "Afspiller"
 
 msgctxt "#31302"
 msgid "Paused"
@@ -802,7 +802,7 @@ msgstr ""
 
 msgctxt "#31306"
 msgid "Customize Background"
-msgstr ""
+msgstr "Tilpas baggrund"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
@@ -814,11 +814,11 @@ msgstr ""
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr ""
+msgstr "Forudindstillinger til visualisering"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr ""
+msgstr "Visualiseringsindstillinger"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -842,7 +842,7 @@ msgstr "Skjul rullende titler"
 
 msgctxt "#31316"
 msgid "Now Playing"
-msgstr ""
+msgstr "Afspiller nu"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
@@ -862,11 +862,11 @@ msgstr ""
 
 msgctxt "#31321"
 msgid "Video decoder"
-msgstr ""
+msgstr "Videoafkoder"
 
 msgctxt "#31322"
 msgid "Pixel format"
-msgstr ""
+msgstr "Pixelformat"
 
 msgctxt "#31323"
 msgid "CPU usage"
@@ -878,19 +878,19 @@ msgstr ""
 
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr ""
+msgstr "Tilgængelige grupper"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr ""
+msgstr "Tilføj gruppe"
 
 msgctxt "#31352"
 msgid "Rename Group"
-msgstr ""
+msgstr "Omdøb gruppe"
 
 msgctxt "#31353"
 msgid "Delete Group"
-msgstr ""
+msgstr "Slet gruppe"
 
 msgctxt "#31354"
 msgid "Hide Group"
@@ -950,7 +950,7 @@ msgstr ""
 
 msgctxt "#31384"
 msgid "Search TheMovieDB"
-msgstr ""
+msgstr "Søg i TheMovieDB"
 
 msgctxt "#31385"
 msgid "Search Actors & Directors"

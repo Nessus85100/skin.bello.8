@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-07-20 21:14+0000\n"
+"PO-Revision-Date: 2022-07-29 13:57+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/fi_fi/>\n"
 "Language: fi_fi\n"
@@ -78,7 +78,7 @@ msgstr ""
 
 msgctxt "#31012"
 msgid "More"
-msgstr ""
+msgstr "Lisää"
 
 msgctxt "#31013"
 msgid "Home Menu"
@@ -86,7 +86,7 @@ msgstr ""
 
 msgctxt "#31014"
 msgid "Created by"
-msgstr ""
+msgstr "Tekijä"
 
 msgctxt "#31015"
 msgid "Similar to"
@@ -302,11 +302,11 @@ msgstr ""
 
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
-msgstr ""
+msgstr "Piilota parhaillaan toistettavan videon tiedot"
 
 msgctxt "#31103"
 msgid "Hide Now Playing Music Info"
-msgstr ""
+msgstr "Piilota parhaillaan toistettavan musiikin tiedot"
 
 msgctxt "#31104"
 msgid "OSD Music Layout"
@@ -490,7 +490,7 @@ msgstr ""
 
 msgctxt "#31203"
 msgid "HD Movies"
-msgstr ""
+msgstr "HD-elokuvat"
 
 msgctxt "#31204"
 msgid "Top 250 Movies"
@@ -906,7 +906,7 @@ msgstr "Samankaltaisia"
 
 msgctxt "#31357"
 msgid "Timer"
-msgstr ""
+msgstr "Ajastin"
 
 msgctxt "#31358"
 msgid "Small List"
