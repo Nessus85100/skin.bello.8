@@ -6,29 +6,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-27 01:19+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2022-08-21 10:19+0000\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/it_it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.13\n"
 
 msgctxt "Addon Summary"
 msgid "A GUI for Kodi Media Center"
-msgstr "Un Interfaccia per Kodi Media Center"
+msgstr "Una GUI per Kodi Media Center"
 
 msgctxt "Addon Description"
 msgid "This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!"
-msgstr ""
+msgstr "Questa è l'ottava generazione della skin Bello per Kodi. Bello 8 mira a massimizzare la tua esperienza di intrattenimento con Kodi con la sua NUOVA interfaccia unica, pulita ed elegante, fornendo agli utenti un livello altamente personalizzabile e molte funzionalità fantastiche!"
 
 msgctxt "Addon Disclaimer"
 msgid "Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don't use it in any way for comercial purposes without my prior consentse. I'm not associated with any available Kodi build and i won't give any support to blacklisted, banned or illegal third party addons."
-msgstr ""
+msgstr "L'uso di mouse, giochi e touchscreen non è supportato. Con l'installazione di questa skin accetti di non utilizzarla in alcun modo per scopi commerciali senza il mio previo consenso. Non sono associato a nessuna build Kodi disponibile e non fornirò alcun supporto per componenti aggiuntivi di terze parti inseriti nella lista nera, vietati o illegali."
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -44,7 +44,7 @@ msgstr "Serie TV"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr "Trasmesso"
+msgstr "Trasmessa"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -52,7 +52,7 @@ msgstr "Prima TV"
 
 msgctxt "#31005"
 msgid "Track Number"
-msgstr "Numero Traccia"
+msgstr "Numero traccia"
 
 msgctxt "#31006"
 msgid "Working..."
@@ -60,7 +60,7 @@ msgstr "Caricamento..."
 
 msgctxt "#31007"
 msgid "Please Wait..."
-msgstr "Attendi..."
+msgstr "Attendere prego..."
 
 msgctxt "#31008"
 msgid "System auto shutdown in"
@@ -72,11 +72,11 @@ msgstr "Menù Contestuale"
 
 msgctxt "#31010"
 msgid "Customize Home Menu"
-msgstr "Personalizza Menù Principale"
+msgstr "Personalizza menu principale"
 
 msgctxt "#31011"
 msgid "Recommended by TMDB"
-msgstr ""
+msgstr "Consigliato da TMDB"
 
 msgctxt "#31012"
 msgid "More"
@@ -84,7 +84,7 @@ msgstr "Altri"
 
 msgctxt "#31013"
 msgid "Home Menu"
-msgstr "Menù Principale"
+msgstr "Menu Principale"
 
 msgctxt "#31014"
 msgid "Created by"
@@ -124,7 +124,7 @@ msgstr "File Musicali"
 
 msgctxt "#31023"
 msgid "Loading Info..."
-msgstr ""
+msgstr "Caricamento informazioni..."
 
 msgctxt "#31024"
 msgid "of"
@@ -256,7 +256,7 @@ msgstr "Lista Muro"
 
 msgctxt "#31089"
 msgid "Showtime"
-msgstr ""
+msgstr "Orario programma"
 
 msgctxt "#31090"
 msgid "Tiles"
@@ -356,11 +356,11 @@ msgstr "Staff"
 
 msgctxt "#31115"
 msgid "Options Menu"
-msgstr ""
+msgstr "Menu opzioni"
 
 msgctxt "#31116"
 msgid "Views Menu"
-msgstr ""
+msgstr "Menu visualizzazioni"
 
 msgctxt "#31124"
 msgid "Flashing Lights"
@@ -460,7 +460,7 @@ msgstr "Premi GIU' per maggiori info"
 
 msgctxt "#31165"
 msgid "Ends"
-msgstr ""
+msgstr "Fine"
 
 msgctxt "#31166"
 msgid "Local subtitle available"
@@ -564,7 +564,7 @@ msgstr "Info Extra"
 
 msgctxt "#31221"
 msgid "Extra art"
-msgstr ""
+msgstr "Extra art"
 
 msgctxt "#31222"
 msgid "Latest Song"
@@ -588,7 +588,7 @@ msgstr "Fornitore dati"
 
 msgctxt "#31231"
 msgid "Daily"
-msgstr ""
+msgstr "Giornaliero"
 
 msgctxt "#31233"
 msgid "Location"
@@ -660,7 +660,7 @@ msgstr "Serie TV Popolari"
 
 msgctxt "#31253"
 msgid "Oscars Winners"
-msgstr ""
+msgstr "Vincitori di Oscar"
 
 msgctxt "#31254"
 msgid "Search on YouTube"
@@ -788,7 +788,7 @@ msgstr "In Esecuzione"
 
 msgctxt "#31302"
 msgid "Paused"
-msgstr "Pausa"
+msgstr "In pausa"
 
 msgctxt "#31303"
 msgid "Rewinding:"
@@ -860,7 +860,7 @@ msgstr "Stai ancora Guardando?"
 
 msgctxt "#31320"
 msgid "UpNext will stop in..."
-msgstr ""
+msgstr "UpNext si fermerà tra..."
 
 msgctxt "#31321"
 msgid "Video decoder"
@@ -912,7 +912,7 @@ msgstr "Timer"
 
 msgctxt "#31358"
 msgid "Small List"
-msgstr ""
+msgstr "Piccolo elenco"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
