@@ -5,17 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-09 14:20+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2022-12-23 14:15+0000\n"
+"Last-Translator: skypichat <skypichat@hotmail.fr>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/fr_fr/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
 msgid "A GUI for Kodi Media Center"
@@ -23,11 +23,11 @@ msgstr "Un thème pour Kodi Media Center"
 
 msgctxt "Addon Description"
 msgid "This is the 8th generation of Bello skin for Kodi. Bello 8 is aiming to maximize your Kodi entertainment experience with its NEW Unique, Clean and Elegant interface while providing users a highly customization level and lots of cool features!"
-msgstr ""
+msgstr "Il s'agit de la 8ème génération de skin Bello pour Kodi. Bello 8 vise à maximiser votre expérience de divertissement Kodi avec sa NOUVELLE interface unique, propre et élégante tout en offrant aux utilisateurs un niveau de personnalisation élevé et de nombreuses fonctionnalités intéressantes !"
 
 msgctxt "Addon Disclaimer"
 msgid "Mouse, Games and touchscreen use are not supported. With the installation of this skin you agree that you don't use it in any way for comercial purposes without my prior consentse. I'm not associated with any available Kodi build and i won't give any support to blacklisted, banned or illegal third party addons."
-msgstr ""
+msgstr "L'utilisation de la souris, commandes de jeux et de écran tactile n'est pas prise en charge. Avec l'installation de ce skin, vous acceptez de ne pas l'utiliser à des fins commerciales sans mon consentement préalable. Je ne suis associé à aucune version de Kodi disponible et je ne fournirai aucun support aux addons tiers sur liste noire, interdits ou illégaux."
 
 msgctxt "#31000"
 msgid "Live TV"
@@ -75,7 +75,7 @@ msgstr "Personnaliser le menu d'accueil"
 
 msgctxt "#31011"
 msgid "Recommended by TMDB"
-msgstr ""
+msgstr "Recommandé par TMDB"
 
 msgctxt "#31012"
 msgid "More"
@@ -123,7 +123,7 @@ msgstr "Fichiers musicaux"
 
 msgctxt "#31023"
 msgid "Loading Info..."
-msgstr ""
+msgstr "Chargement des informations..."
 
 msgctxt "#31024"
 msgid "of"
@@ -355,11 +355,11 @@ msgstr "Équipe"
 
 msgctxt "#31115"
 msgid "Options Menu"
-msgstr ""
+msgstr "Menu des options"
 
 msgctxt "#31116"
 msgid "Views Menu"
-msgstr ""
+msgstr "Menu des vues"
 
 msgctxt "#31124"
 msgid "Flashing Lights"
@@ -459,7 +459,7 @@ msgstr "Appuyez sur BAS pour plus d'informations"
 
 msgctxt "#31165"
 msgid "Ends"
-msgstr ""
+msgstr "Prend fin"
 
 msgctxt "#31166"
 msgid "Local subtitle available"
@@ -563,7 +563,7 @@ msgstr "Information supplémentaire"
 
 msgctxt "#31221"
 msgid "Extra art"
-msgstr ""
+msgstr "Art supplémentaire"
 
 msgctxt "#31222"
 msgid "Latest Song"
@@ -587,7 +587,7 @@ msgstr "Fournisseur de données"
 
 msgctxt "#31231"
 msgid "Daily"
-msgstr ""
+msgstr "Quotidien"
 
 msgctxt "#31233"
 msgid "Location"
@@ -659,7 +659,7 @@ msgstr "Spectacles TV populaires"
 
 msgctxt "#31253"
 msgid "Oscars Winners"
-msgstr ""
+msgstr "Gagnants des Oscars"
 
 msgctxt "#31254"
 msgid "Search on YouTube"
@@ -911,7 +911,7 @@ msgstr "Minuteur"
 
 msgctxt "#31358"
 msgid "Small List"
-msgstr ""
+msgstr "Petite liste"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
