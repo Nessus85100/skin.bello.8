@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-12-23 14:15+0000\n"
+"PO-Revision-Date: 2023-01-03 10:15+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/it_it/>\n"
 "Language: it_IT\n"
@@ -116,11 +116,11 @@ msgstr "Scritto da"
 
 msgctxt "#31021"
 msgid "Music Library"
-msgstr "Libreria Musicale"
+msgstr "Libreria musicale"
 
 msgctxt "#31022"
 msgid "Music Files"
-msgstr "File Musicali"
+msgstr "File musicali"
 
 msgctxt "#31023"
 msgid "Loading Info..."
@@ -168,7 +168,7 @@ msgstr "Televideo"
 
 msgctxt "#31035"
 msgid "Searching subtitles"
-msgstr "Ricerca Sottotitoli"
+msgstr "Ricerca sottotitoli"
 
 msgctxt "#31037"
 msgid "Change Rating"
@@ -272,19 +272,19 @@ msgstr "Widget Navigazione Veloce"
 
 msgctxt "#31094"
 msgid "Movies Widgets"
-msgstr "Widget Film"
+msgstr "Widget film"
 
 msgctxt "#31095"
 msgid "TV Shows Widgets"
-msgstr "Widget Serie TV"
+msgstr "Widget serie TV"
 
 msgctxt "#31096"
 msgid "Music Widgets"
-msgstr "Widget Musica"
+msgstr "Widget musica"
 
 msgctxt "#31097"
 msgid "RSS Video Feed Widget"
-msgstr "Widget Feed Video RSS"
+msgstr "Widget Feed video RSS"
 
 msgctxt "#31098"
 msgid "Show Small Thumbs"
@@ -304,19 +304,19 @@ msgstr "Abilita Auto completamento su K/B [COLOR=55white](Richiede il plugin.pro
 
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
-msgstr "Nascondi Informazioni Video in Esecuzione"
+msgstr "Nascondi Informazioni video in Esecuzione"
 
 msgctxt "#31103"
 msgid "Hide Now Playing Music Info"
-msgstr "Nascondi Informazioni Musica in Esecuzione"
+msgstr "Nascondi Informazioni musica in Esecuzione"
 
 msgctxt "#31104"
 msgid "OSD Music Layout"
-msgstr "Posizione OSD Musica"
+msgstr "Posizione OSD musica"
 
 msgctxt "#31105"
 msgid "OSD Video Layout"
-msgstr "Posizione OSD Video"
+msgstr "Posizione OSD video"
 
 msgctxt "#31106"
 msgid "SeekBar Layout"
@@ -328,11 +328,11 @@ msgstr "Semplice"
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr "File Musicali di Sistema"
+msgstr "Suoni di sistema"
 
 msgctxt "#31109"
 msgid "Current Playlist"
-msgstr "Playlist Attuale"
+msgstr "Playlist attuale"
 
 msgctxt "#31110"
 msgid "OSD layout has changed."
@@ -396,7 +396,7 @@ msgstr "Mostra solo nella Schermata Home"
 
 msgctxt "#31132"
 msgid "Hide Background Video"
-msgstr "Nascondi Video nello Sfondo"
+msgstr "Nascondi video nello Sfondo"
 
 msgctxt "#31137"
 msgid "Enable Notifications"
@@ -404,15 +404,15 @@ msgstr "Abilita Notifiche"
 
 msgctxt "#31139"
 msgid "Enable Add-ons Notifications"
-msgstr "Abilita Notifiche Add-on"
+msgstr "Abilita Notifiche add-on"
 
 msgctxt "#31140"
 msgid "Enable Weather Alerts Notifications"
-msgstr "Abilita Notifiche Allerta Meteo"
+msgstr "Abilita Notifiche Allerta meteo"
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr "Add-on Testi Musicali"
+msgstr "Add-on testi musicali"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -420,7 +420,7 @@ msgstr "Add-on Richiesti"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Abilita Prossimi in Onda Info & Guida TV per le Serie TV[COLOR=55white](Richiede lo script.tv.show.next.aired)[/COLOR]"
+msgstr "Abilita Prossimi in Onda Info & Guida TV per le serie TV[COLOR=55white](Richiede lo script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31151"
 msgid "Show RSS feed in whole skin"
@@ -432,11 +432,11 @@ msgstr "Abilita la schermata di login"
 
 msgctxt "#31156"
 msgid "Manage Video Views"
-msgstr "Gestisci le Visualizzazioni Video"
+msgstr "Gestisci le Visualizzazioni video"
 
 msgctxt "#31157"
 msgid "Manage Music Views"
-msgstr "Gestisci le Visualizzazioni Musica"
+msgstr "Gestisci le Visualizzazioni musica"
 
 msgctxt "#31158"
 msgid "Views"
@@ -444,11 +444,11 @@ msgstr "Tipi di Visualizzazioni"
 
 msgctxt "#31161"
 msgid "Hide home menu extra info"
-msgstr "Nascondi le info extra nel Menù Principale"
+msgstr "Nascondi le info extra nel menu principale"
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
-msgstr "Abilita Modalità Kiosk"
+msgstr "Abilita modalità Kiosk"
 
 msgctxt "#31163"
 msgid "Cast info"
@@ -480,15 +480,15 @@ msgstr "Resetta Skin"
 
 msgctxt "#31200"
 msgid "My Smartish Movies"
-msgstr "I miei Film Smarthish"
+msgstr "I miei film Smarthish"
 
 msgctxt "#31201"
 msgid "My Smartish TV Shows"
-msgstr "Le mie Serie TV Smarthish"
+msgstr "Le mie serie TV Smarthish"
 
 msgctxt "#31202"
 msgid "My Smartish Music"
-msgstr "La mia Musica Smarthish"
+msgstr "La mia musica Smarthish"
 
 msgctxt "#31203"
 msgid "HD Movies"
@@ -496,7 +496,7 @@ msgstr "Film HD"
 
 msgctxt "#31204"
 msgid "Top 250 Movies"
-msgstr "Top 250 Film"
+msgstr "Top 250 film"
 
 msgctxt "#31205"
 msgid "My Smartish TV Channels"
@@ -504,7 +504,7 @@ msgstr "I miei Canali TV Smarthish"
 
 msgctxt "#31206"
 msgid "Next Aired TV Shows"
-msgstr "Prossime Serie TV Trasmesse"
+msgstr "Prossime serie TV Trasmesse"
 
 msgctxt "#31207"
 msgid "Widget's Aspect Ratio"
@@ -516,7 +516,7 @@ msgstr "Nascondi tutti i Widget in automatico"
 
 msgctxt "#31209"
 msgid "Use submenu as Widget"
-msgstr "Usa i sottomenù come Widget"
+msgstr "Usa i sottomenu come Widget"
 
 msgctxt "#31210"
 msgid "Recent"
@@ -524,15 +524,15 @@ msgstr "Recente"
 
 msgctxt "#31211"
 msgid "Latest Movie"
-msgstr "Ultimo Film"
+msgstr "Ultimo film"
 
 msgctxt "#31212"
 msgid "Latest Episode"
-msgstr "Ultimo Episodio"
+msgstr "Ultimo episodio"
 
 msgctxt "#31213"
 msgid "Latest Album"
-msgstr "Ultimo Album"
+msgstr "Ultimo album"
 
 msgctxt "#31214"
 msgid "Airing"
@@ -668,7 +668,7 @@ msgstr "Cerca su YouTube"
 
 msgctxt "#31255"
 msgid "RSS Video Feeds"
-msgstr "Feed Video RSS"
+msgstr "Feed video RSS"
 
 msgctxt "#31256"
 msgid "In Cinemas Now"
@@ -728,11 +728,11 @@ msgstr "Serie TV in Onda"
 
 msgctxt "#31270"
 msgid "Movie Facts"
-msgstr "Info su Film"
+msgstr "Info su film"
 
 msgctxt "#31271"
 msgid "TV Show Facts"
-msgstr "Info su Serie TV"
+msgstr "Info su serie TV"
 
 msgctxt "#31272"
 msgid "Died"
@@ -824,11 +824,11 @@ msgstr "Impostazioni Visualizzazione"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
-msgstr "Abilita la Presentazione di Fanart per la Musica"
+msgstr "Abilita la Presentazione di Fanart per la musica"
 
 msgctxt "#31312"
 msgid "Enable Artist SlideShow"
-msgstr "Abilita Presentazione Artisti"
+msgstr "Abilita Presentazione artisti"
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
@@ -852,7 +852,7 @@ msgstr "Continua a Guardare?"
 
 msgctxt "#31318"
 msgid "Next Episode will start in..."
-msgstr "Il prossimo Episodio inizierà in..."
+msgstr "Il prossimo episodio inizierà in..."
 
 msgctxt "#31319"
 msgid "Still watching ?"
@@ -940,15 +940,15 @@ msgstr "Elementi Personalizzati"
 
 msgctxt "#31381"
 msgid "Search Video Library"
-msgstr "Cerca Libreria Video"
+msgstr "Cerca Libreria video"
 
 msgctxt "#31382"
 msgid "Search Music Library"
-msgstr "Cerca Libreria Musicale"
+msgstr "Cerca Libreria musicale"
 
 msgctxt "#31383"
 msgid "Search Add-ons"
-msgstr "Cerca Add-on"
+msgstr "Cerca add-on"
 
 msgctxt "#31384"
 msgid "Search TheMovieDB"
@@ -972,7 +972,7 @@ msgstr "Con Kodi puoi avere vari profili e l'auto login se la schermata di login
 
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
-msgstr "Non hai aggiunto ancora nessun \"Preferito\".[CR]Evidenzia un elemento e scegli \"Aggiungi a Preferiti\" dal menù contestuale."
+msgstr "Non hai aggiunto ancora nessun \"Preferito\".[CR]Evidenzia un elemento e scegli \"Aggiungi a Preferiti\" dal menu contestuale."
 
 msgctxt "#31432"
 msgid "Please check your Weather service settings."
