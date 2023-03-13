@@ -4,9 +4,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-27 01:19+0000\n"
+"PO-Revision-Date: 2023-03-13 20:44+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Icelandic <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-bello/is_is/>\n"
 "Language: is_is\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "A GUI for Kodi Media Center"
@@ -90,7 +90,7 @@ msgstr ""
 
 msgctxt "#31015"
 msgid "Similar to"
-msgstr ""
+msgstr "Svipað og"
 
 msgctxt "#31016"
 msgid "File Manager"
@@ -242,7 +242,7 @@ msgstr ""
 
 msgctxt "#31086"
 msgid "Banner List"
-msgstr ""
+msgstr "Listi á borða"
 
 msgctxt "#31087"
 msgid "VideoWall"
@@ -350,7 +350,7 @@ msgstr "Viðurkenningar"
 
 msgctxt "#31114"
 msgid "Crew"
-msgstr ""
+msgstr "Tökulið"
 
 msgctxt "#31115"
 msgid "Options Menu"
@@ -526,7 +526,7 @@ msgstr ""
 
 msgctxt "#31212"
 msgid "Latest Episode"
-msgstr ""
+msgstr "Nýjasti þáttur"
 
 msgctxt "#31213"
 msgid "Latest Album"
@@ -594,7 +594,7 @@ msgstr "Staðsetning"
 
 msgctxt "#31237"
 msgid "Popular People"
-msgstr ""
+msgstr "Vinsælt fólk"
 
 msgctxt "#31238"
 msgid "No Shows airing today.[CR]Press LEFT to select different day."
@@ -614,7 +614,7 @@ msgstr "Nýlega viðbættar kvikmyndir"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
-msgstr ""
+msgstr "Nýlega viðbættir sjónvarpsþættir"
 
 msgctxt "#31243"
 msgid "Recently Added Music"
@@ -634,15 +634,15 @@ msgstr ""
 
 msgctxt "#31247"
 msgid "Random Movies"
-msgstr ""
+msgstr "Handahófskenndar kvikmyndir"
 
 msgctxt "#31248"
 msgid "Random TV Shows"
-msgstr ""
+msgstr "Handahófskenndir sjónvarpsþættir"
 
 msgctxt "#31249"
 msgid "Random Albums"
-msgstr ""
+msgstr "Tilviljunarkenndar hljómplötur"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -654,7 +654,7 @@ msgstr "Vinsælar kvikmyndir"
 
 msgctxt "#31252"
 msgid "Popular TV Shows"
-msgstr ""
+msgstr "Vinsælir sjónvarpsþættir"
 
 msgctxt "#31253"
 msgid "Oscars Winners"
@@ -682,7 +682,7 @@ msgstr "Sjónvarpsþættir í umræðunni"
 
 msgctxt "#31259"
 msgid "Random Artists"
-msgstr ""
+msgstr "Handahófskenndir flytjendur"
 
 msgctxt "#31260"
 msgid "Movies In Progress"
@@ -698,7 +698,7 @@ msgstr ""
 
 msgctxt "#31263"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "Óskoðaðar kvikmyndir"
 
 msgctxt "#31264"
 msgid "Unwatched TV Shows"
@@ -706,7 +706,7 @@ msgstr "Óskoðaðir sjónvarpsþættir"
 
 msgctxt "#31265"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "Óskoðaðir þættir"
 
 msgctxt "#31266"
 msgid "Top Rated Movies"
@@ -714,11 +714,11 @@ msgstr "Kvikmyndir með hæsta einkunn"
 
 msgctxt "#31267"
 msgid "Top Rated TV Shows"
-msgstr ""
+msgstr "Sjónvarpsþættir með hæstu einkunn"
 
 msgctxt "#31268"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Þættir af handahófi"
 
 msgctxt "#31269"
 msgid "On-Air TV Shows"
@@ -734,7 +734,7 @@ msgstr ""
 
 msgctxt "#31272"
 msgid "Died"
-msgstr ""
+msgstr "Lést"
 
 msgctxt "#31273"
 msgid "Photos"
@@ -742,7 +742,7 @@ msgstr ""
 
 msgctxt "#31274"
 msgid "Random Songs"
-msgstr ""
+msgstr "Tilviljunarkennd lög"
 
 msgctxt "#31275"
 msgid "Most Watched TV Shows"
@@ -870,7 +870,7 @@ msgstr "Snið mynddíla"
 
 msgctxt "#31323"
 msgid "CPU usage"
-msgstr ""
+msgstr "Örgjörvanotkun"
 
 msgctxt "#31324"
 msgid "Cache level"
@@ -902,7 +902,7 @@ msgstr ""
 
 msgctxt "#31356"
 msgid "Similar"
-msgstr ""
+msgstr "Svipað"
 
 msgctxt "#31357"
 msgid "Timer"
@@ -958,7 +958,7 @@ msgstr ""
 
 msgctxt "#31386"
 msgid "People"
-msgstr ""
+msgstr "Fólk"
 
 msgctxt "#31409"
 msgid "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
